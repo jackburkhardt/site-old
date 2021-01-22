@@ -1,0 +1,4 @@
+baseURL = "https://jackburkhardt.com/"
+languageCode = "en-us"
+title = "jack burkhardt"
+theme = "archie"
