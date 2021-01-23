@@ -23,7 +23,7 @@ icon = "github"
 url = "https://github.com/jackburkhardt"
 
 [[params.social]]
-name = "TwelvePointFive#0001"
+name = "TwelvePointFive(hash)0001"
 icon = "discord"
 url = ""
 
