@@ -25,7 +25,7 @@ url = "https://github.com/jackburkhardt"
 [[params.social]]
 name = "TwelvePointFive#0001"
 icon = "discord"
-#url = "https://twitter.com/athulcajay/"
+url = ""
 
 [[params.social]]
 name = "email"
