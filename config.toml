@@ -20,7 +20,7 @@ paginate=3 # articles per page
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/athul/archie"
+url = "https://github.com/jackburkhardt"
 
 [[params.social]]
 name = "Twitter"
@@ -35,21 +35,21 @@ url = "https://gitlab.com/athul/"
 # Main menu Items
 
 [[menu.main]]
-name = "Home"
+name = "home"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
-url = "/posts"
+name = "blog"
+url = "/blog"
 weight = 2
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "projects"
+url = "/projects"
 weight = 3
 
 [[menu.main]]
-name = "Tags"
+name = "resume"
 url = "/tags"
 weight = 4
