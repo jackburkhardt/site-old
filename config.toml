@@ -18,19 +18,19 @@ paginate=3 # articles per page
 # Social Tags
 
 [[params.social]]
-name = "GitHub"
+name = "github"
 icon = "github"
 url = "https://github.com/jackburkhardt"
 
 [[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/athulcajay/"
+name = "TwelvePointFive#0001"
+icon = "discord"
+#url = "https://twitter.com/athulcajay/"
 
 [[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
+name = "email"
+icon = "envelope"
+url = "mailto:mail@jackburkhardt.com"
 
 # Main menu Items
 
