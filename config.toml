@@ -13,7 +13,7 @@ paginate=3 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "Site is still under construction. Check back later."
 
 # Social Tags
 
