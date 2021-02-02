@@ -23,11 +23,6 @@ icon = "github"
 url = "https://github.com/jackburkhardt"
 
 [[params.social]]
-name = "TwelvePointFive(hash)0001"
-icon = "discord"
-url = ""
-
-[[params.social]]
 name = "email"
 icon = "envelope"
 url = "mailto:mail@jackburkhardt.com"
