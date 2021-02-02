@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jackburkhardt.com/categories/</loc>
+    <loc>https://jackburkhardt.com/resume/</loc>
   </url>
   
   <url>
@@ -11,7 +11,11 @@
   </url>
   
   <url>
-    <loc>https://jackburkhardt.com/tags/</loc>
+    <loc>https://jackburkhardt.com/blog/</loc>
   </url>
-  
+
+    <url>
+    <loc>https://jackburkhardt.com/projects/</loc>
+  </url>
+
 </urlset>
