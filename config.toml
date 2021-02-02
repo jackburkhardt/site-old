@@ -51,5 +51,5 @@ weight = 3
 
 [[menu.main]]
 name = "resume"
-url = "/tags"
+url = "/resume"
 weight = 4
