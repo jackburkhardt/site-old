@@ -1,8 +1,8 @@
 ---
-title: "'Esports Games': Team Fortress 2 and Overwatch"
+title: "Esports Games": Team Fortress 2 and Overwatch
 date: 2021-02-02
-description: "Examining what makes a good esports game through the lens of a bad esports game, featuring Team Fortress 2."
-tags: [tf2]
+description: "Taking a look at what makes a good esports game through the lens of a bad esports game."
+tags: [tf2, esports, game design]
 ---
 
 I’ve been a big fan of Team Fortress 2 for about 7 years now. Which sounds like a lot, but my 7 years and 900 hours is nowhere near the decade plus and thousands of hours many other players have dedicated to the game. Still, I’ve been able to experience a lot of what the game and its community have to offer, from trading to mapmaking to community servers and much more.
@@ -15,7 +15,7 @@ A couple notes here: Yes, I know what I’m saying is pretty obvious to anyone w
 
 **Developer backing is vital.**
 
-While Overwatch is still a newer game, it’s gotten much more support from Blizzard in that time than TF2 ever really did from Valve. Blizzard has had their own share of controversies, but they’ve been more communicative, more supportive of their community, and willing to put in much more developer time. TF2 has not had a major content update in 1197 days (over 3 years) at the time of this writing, while Overwatch got a patch today (with Overwatch 2 on the horizon). he idea here is pretty simple; players don’t want to play a dead game. And TF2 is still littered with bugs and hackers and it’s not a stretch to say the game is just living out the rest of its golden years.
+While Overwatch is still a newer game, it’s gotten much more support from Blizzard in that time than TF2 ever really did from Valve. Blizzard has had their own share of controversies, but they’ve been more communicative, more supportive of their community, and willing to put in much more developer time. TF2 has not had a major content update in [1197 days (over 3 years)](https://twitter.com/daystf2?lang=en) at the time of this writing, while Overwatch got a patch today (with Overwatch 2 on the horizon). he idea here is pretty simple; players don’t want to play a dead game. And TF2 is still littered with bugs and hackers and it’s not a stretch to say the game is just living out the rest of its golden years.
 
 **More money = more talent = a thriving esports scene.**
 
@@ -23,7 +23,7 @@ Money talks, and for pro TF2 players Overwatch’s prize pool of almost $11.5 mi
 
 **Consistency makes for long-term fans.**
 
-A big issue in TF2’s esports scene is that it just isn’t very stable. Funding and venues for most events are barely scraped together by the community, and the amount of those events has been decreasing over time. In addition, each season of each league brought with it a lot of new no-name teams that would usually not last past a season or two, usually falling apart and never gaining traction. Overwatch, on the other hand, has a very strongly organized league with teams that appear consistently season over season. This is important because it allows the esports scene to build up a loyal fanbase, and consistency makes fans more willing to support for longer.
+A big issue in TF2’s esports scene is that it just isn’t very stable. Funding and venues for most events are barely scraped together by the community, and the amount of those events has been decreasing over time. In addition, each season of each league brought with it a lot of new no-name teams that would usually not last past a season or two, often falling apart and never gaining traction. Overwatch, on the other hand, has a very strongly organized league with teams that appear consistently season over season. This is important because it allows the esports scene to build up a loyal fanbase, and consistency makes fans more willing to support for longer.
 
 **The game needs to be “designed for esports”.**
 
