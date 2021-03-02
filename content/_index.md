@@ -1,6 +1,6 @@
 ---
-title: home
+title: hello, i'm Jack Burkhardt
 url: /
 type: home
 ---
-testing. site
+This is my website. It's not done yet.
