@@ -1,6 +1,6 @@
 ---
-title: "home"
+title: home
 url: /
-type: Page
+type: home
 ---
-testing
+testing. site
