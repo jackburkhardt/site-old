@@ -3,6 +3,7 @@ title: "\"Esports Games\": Team Fortress 2 and Overwatch"
 date: 2021-02-02
 description: "Taking a look at what makes a good esports game through the lens of a bad esports game."
 tags: [tf2, esports, game design]
+draft: true
 ---
 
 I’ve been a big fan of Team Fortress 2 for about 7 years now. Which sounds like a lot, but my 7 years and 900 hours is nowhere near the decade plus and thousands of hours many other players have dedicated to the game. Still, I’ve been able to experience a lot of what the game and its community have to offer, from trading to mapmaking to community servers and much more.
