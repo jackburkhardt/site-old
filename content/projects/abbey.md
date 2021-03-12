@@ -6,7 +6,7 @@ tags: [fallout, fallout 2, modding, bis mapper]
 draft: false
 ---
 
-![ingame1](/static/resources/abbey/ingame1.png)
+![ingame1](/resources/abbey/ingame1.png)
 
 Abbey is a partially complete mod for *Fallout 2* (1998) that I made right before the start of my freshman year of college. The map itself is complete and likely playable, but it's missing NPCs, quests, and associated scripting and dialogue. Much of the story, quests, and characters exist and are in notebooks of mine, but the main reason it never got finished is that I just ran out of time when school started. I don't know if I will finish the mod but I may try to if I can get around to it.
 
@@ -41,3 +41,6 @@ Even though this was not the easiest project ever, I’m still glad I did it and
 # Gallery & Downloads
 
 Here’s a gallery of images for the map and a video demo. There’s also downloads of the map available below; I don’t actually know if I included the right things or how to bundle it with the main game. I know there’s a tool to generate an installer but sadly I don’t have time to set that up now.
+
+![park](/resources/abbey/park.png) ![library](/resources/abbey/library.png) ![farm](/resources/abbey/farm.png)
+![ingame2](/resources/abbey/ingame2.png) ![top](/resources/abbey/top.png) ![graveyard](/resources/abbey/graveyard.png)
