@@ -6,24 +6,38 @@ tags: [fallout, fallout 2, modding, bis mapper]
 draft: false
 ---
 
-Abbey is a partially complete mod for *Fallout 2* (1998) that I made right before the start of my freshman year of college. The map itself is complete and likely playable, but it's missing NPCs, quests, and associated scripting and dialogue. Much of the story, quests, and characters exists and is in notebooks of mine, but the main reason it never got finished is that I just ran out of time when school started. I don't know if I will finish the mod but I may try to if I can get around to it.
+![ingame1](/static/resources/abbey/ingame1.png)
 
-### Background
+Abbey is a partially complete mod for *Fallout 2* (1998) that I made right before the start of my freshman year of college. The map itself is complete and likely playable, but it's missing NPCs, quests, and associated scripting and dialogue. Much of the story, quests, and characters exist and are in notebooks of mine, but the main reason it never got finished is that I just ran out of time when school started. I don't know if I will finish the mod but I may try to if I can get around to it.
 
-I was looking for a game modding project I could do in the weeks leading up to the start of classes, and being a Fallout fan with plenty of ideas for the series I naturally started eyeing some of the games. I'd recently been watching hours on top of hours of playthroughs of Fallout 1 and 2, and figured that they would be easy games to mod relative to their younger 3D siblings (this turned out to be both true and very false). I wasn't sure if I wanted to make something fully from scratch, so I browsed around on the Fallout wiki for things I could mod when eventually I stumbled upon [Abbey](https://fallout.fandom.com/wiki/Abbey). I felt like this would be a really good place to mod in, as it has some basic lore already made but still has a ton of room for expansion. It also is technically cut content, so there are some remaining references in the base game that will make it easy to link the mod with the game later. It also has defined media as an inspiration most notably the 1959 book [A Canticle for Leibowitz](https://en.wikipedia.org/wiki/A_Canticle_for_Leibowitz).
+# Background
 
-### Challenges & Modding tools
+I was looking for a game modding project I could do in the weeks leading up to the start of classes, and being a Fallout fan with plenty of ideas for the series I naturally started eyeing some of the games. I'd recently been watching hours on top of hours of playthroughs of Fallout 1 and 2, and figured that they would be easy games to mod relative to their younger 3D siblings (this turned out to be both true and very false). I wasn't sure if I wanted to make something fully from scratch, so I browsed around on the Fallout wiki for things I could mod when eventually I stumbled upon [Abbey](https://fallout.fandom.com/wiki/Abbey). I felt like this would be a really good place to mod in, as it has some basic lore already made but still has a ton of room for expansion. It also is technically cut content, so there are some remaining references in the base game that will make it easy to link the mod with the game later. It also has defined media as an inspiration, most notably the 1959 book [A Canticle for Leibowitz](https://en.wikipedia.org/wiki/A_Canticle_for_Leibowitz).
 
-Modding Fallout 2, when you break it down, is actually super simple. The main problems are that its an old game and that the modding community around it is relatively small. As such, most of the tools I used are very old and there is little to no documentation. Almost all existing info and resources are concentrated on the No Mutants Allowed forum and in posts that are sometimes older than me. This posed two problems, a tech problem and a resources problem.
+# Challenges & Modding tools
 
-#### Tech problems
+Modding Fallout 2, when you break it down, is actually super simple. The main problems are that it's an old game and that the modding community around it is relatively small. As such, most of the tools I used are very old and there is little to no documentation. Almost all existing info and resources are concentrated on the No Mutants Allowed forum and in posts that are sometimes older than me. This posed two problems, a tech problem and a resources problem.
 
-There are several community made tools that I used to make this mod possible, but there are likely more I don't remember. The biggest ones are BIS Mapper (the mapping tool) Fallout Dialogue Converter (a dialouge tree creation tool), and sfall (a scripting tool). There's also several smaller pieces of software I used, such as high resolution patchers to allow the mapper to run at resolutions above 480p, and a .dat file explorer to unpack assets and libraries from the base game. Most of these will not run properly without a compatability layer, as almost none will run natively on Windows 10. I found that Windows XP/Windows 95 mode seemed to work best for most of these.
+## Tech problems
 
-As you may be able to guess, these tools were janky and finicky at best and straight up didn't work at worst. The mapper itself was a landmine to use; if you didn't open it properly or if you pressed the wrong button, the program would crash or stop working. There's also none of the creature comforts of modern engines and modding tools. You have to manually scroll through assets, there's no easy undo or copy features, 
+There are several community made tools that I used to make this mod possible, but there are likely more I don't remember. The biggest ones are BIS Mapper (the mapping tool) Fallout Dialogue Converter (a dialogue tree creation tool), and sfall (a scripting tool). There's also several smaller pieces of software I used, such as high resolution patchers to allow the mapper to run at resolutions above 480p, and a .dat file explorer to unpack assets and libraries from the base game. Most of these will not run properly without a compatibility layer, as almost none will run natively on Windows 10. I found that Windows XP/Windows 95 mode seemed to work best for most of these.
 
-#### Resource problems
+As you may be able to guess, these tools were janky and finicky at best and straight up didn't work at worst. The mapper itself was a landmine to use; if you didn't open it properly or if you pressed the wrong button, the program would crash or stop working. There's also none of the creature comforts of modern engines and modding tools. You have to manually scroll through assets, there's no easy undo or copy features, and many unknown or broken features.
 
-As I've talked about before, there is very little information that exists 
+## Resource problems
+
+As I've talked about before, there is very little information that exists about modding early Fallout games. I have so much appreciation for the NMA forum for keeping all of these old posts and harboring a community for Fallout modders and resources. In absence of real documentation, most of my references were to forum posts which themselves lacked a lot of info (some of the entries on a post about BIS Mapper keymaps just said “crashes”). Trying to create and import my own sprites would also be a nightmare, so I resorted to just using existing sprites. I’ll share some of those resources below:
 
 As a sort of aside, this was also the first time I've worked on an isometric game ([although it's technically cavalier oblique](https://youtu.be/T2OxO-4YLRk?t=1356)). It also uses a hexagonal tilesystem which Tim Cain gives good reasons for in the clip I just linked, but it can be sort of hard to wrap your head around while mapping.
+
+# Lore & Design
+
+TBC once I find my notebooks
+
+# Reflections
+
+Even though this was not the easiest project ever, I’m still glad I did it and I hope to finish it one day. I think putting myself in deep water by using an old game without much info was a great learning experience and is a good practice in troubleshooting and experimentation. I’m also not a great level designer, so this was fun practice and in all honesty while the tools can be frustrating at times it’s still fun to do (and much easier than making maps in 3D).
+
+# Gallery & Downloads
+
+Here’s a gallery of images for the map and a video demo. There’s also downloads of the map available below; I don’t actually know if I included the right things or how to bundle it with the main game. I know there’s a tool to generate an installer but sadly I don’t have time to set that up now.
