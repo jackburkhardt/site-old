@@ -26,17 +26,27 @@ As you may be able to guess, these tools were janky and finicky at best and stra
 
 ## Resource problems
 
-As I've talked about before, there is very little information that exists about modding early Fallout games. I have so much appreciation for the NMA forum for keeping all of these old posts and harboring a community for Fallout modders and resources. In absence of real documentation, most of my references were to forum posts which themselves lacked a lot of info (some of the entries on a post about BIS Mapper keymaps just said “crashes”). Trying to create and import my own sprites would also be a nightmare, so I resorted to just using existing sprites. I’ll share some of those resources below:
+As I've talked about before, there is very little information that exists about modding early Fallout games. I have so much appreciation for the NMA forum for keeping all of these old posts and harboring a community for Fallout modders and resources. In absence of real documentation, most of my references were to forum posts which themselves lacked a lot of info (some of the entries on a post about BIS Mapper keymaps just said “crashes”). I’ll share some of those resources below:
 
 As a sort of aside, this was also the first time I've worked on an isometric game ([although it's technically cavalier oblique](https://youtu.be/T2OxO-4YLRk?t=1356)). It also uses a hexagonal tilesystem which Tim Cain gives good reasons for in the clip I just linked, but it can be sort of hard to wrap your head around while mapping.
 
 # Lore & Design
 
-TBC once I find my notebooks
+I've written a lot of lore for this map but since none if it has been implemented yet I'll keep this to a breif overview. The general idea was that the Brotherhood of Steel was eyeing the monestary for its repository of open information, and was intending to slowly take it over through a serious of fake diplomatic moves and secret poisonings. Within the monastery there is division on how to handle the situation; some members have a hunch that the Brotherhood are the ones behind it and want the monastery to take action, but current monestary leaders either don't believe that it's the Brotherhood or would rather defend the monestary's principles of freedom of information.
+
+I wanted to capture the classic Fallout system of choice freedom and consequences, so here are a few possible endings to the questline:
+- The player can side with the Brotherhood, essentially helping them seize Abbey by force
+- The player can side with the faction of monks who are concerned about the Brotherhood
+- The player can side with the current monk leadership
+- Wildcard: The player can solve the quest several more ways than is listed possible here, so I can't include them all. Some options are destroying the libraries yourself, killing Brotherhood spies, and playing double-agent, among others.
+
+Each of these options has smaller quests, objectives, and plot points associated with them but for the sake of time I won't include them all here. Each choice has implications and consequences, both real and moral, which is what makes these compelling. Most importantly, the consequences would be communicated to the player as they decide (for example, it's hinted that the Brotherhood will be able to take over the monestary if they player goes with the second option, or that the monks intend to use violence against their own if they go with the third). The player would have the ability to handle each of these options in ways they'd like, by stealth, speech, violence, etc within the bounds of Fallout's acceptable character ranges.
+
+This map was made off an existing map in the game, the [NCR Downtown](https://fallout.fandom.com/wiki/NCR_Downtown) mainly because starting fully from scratch would take both time and skill I did not have. From there I basically tore the map apart and rebuilt it based on my drawings. Trying to create and import my own sprites would also be a nightmare, so I resorted to just using existing tiles and sprites. I tried to make sure my map followed a semblance of the lore and could also fit the idea of a monestary based on [reference images and information](https://en.wikipedia.org/wiki/Monastery). All in all I think it looks alright; I'm by no means a level designer and designing multilevel structures in the mapping tool is another level of difficulty.
 
 # Reflections
 
-Even though this was not the easiest project ever, I’m still glad I did it and I hope to finish it one day. I think putting myself in deep water by using an old game without much info was a great learning experience and is a good practice in troubleshooting and experimentation. I’m also not a great level designer, so this was fun practice and in all honesty while the tools can be frustrating at times it’s still fun to do (and much easier than making maps in 3D).
+Even though this was not the easiest project ever, I’m still glad I did it and I hope to finish it one day. I think jumping in the deep end by using an old game without much info was a great learning experience and is a good practice in troubleshooting and experimentation. I’m also not a great level designer, so this was fun practice and in all honesty while the tools can be frustrating at times it’s still fun to do (and much easier than making maps in 3D). Fallout is a series I've loved for a long time and I especially enjoy the writing and design style of many of Interplay's greats, like Tim Cain, Leonard Boyarsky, and Chris Avellone.
 
 # Gallery & Downloads
 
