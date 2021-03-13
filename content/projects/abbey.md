@@ -20,13 +20,20 @@ Modding Fallout 2, when you break it down, is actually super simple. The main pr
  
 ## Tech problems
  
-There are several community made tools that I used to make this mod possible, but there are likely more I don't remember. The biggest ones are BIS Mapper (the mapping tool) Fallout Dialogue Converter (a dialogue tree creation tool), and sfall (a scripting tool). There's also several smaller pieces of software I used, such as high resolution patchers to allow the mapper to run at resolutions above 480p, and a .dat file explorer to unpack assets and libraries from the base game. Most of these will not run properly without a compatibility layer, as almost none will run natively on Windows 10. I found that Windows XP/Windows 95 mode seemed to work best for most of these.
+There are several community made tools that I used to make this mod possible, but there are likely more I don't remember. The biggest ones are [BIS Mapper](https://www.nma-fallout.com/resources/bis-mapper.55/) (the mapping tool) [Fallout Dialogue Converter](https://www.nma-fallout.com/threads/fallout-dialogue-creator-0-28-released-formerly-fmf-dialogue-tool.215927/) (a dialogue tree creation tool), and [sfall](https://sourceforge.net/projects/sfall/) (a scripting tool). There's also several smaller pieces of software I used, such as [high resolution patchers](https://www.nma-fallout.com/threads/hi-res-patches-for-fallout1-2-the-bis-mapper.181743/) to allow the mapper to run at resolutions above 480p, and a [.dat file explorer](http://www.nma-fallout.com/resources/dat-explorer-by-dims.56/) to unpack assets and libraries from the base game. Most of these will not run properly without a compatibility layer, as almost none will run natively on Windows 10. I found that Windows XP/Windows 95 mode seemed to work best for most of these.
  
 As you may be able to guess, these tools were janky and finicky at best and straight up didn't work at worst. The mapper itself was a landmine to use; if you didn't open it properly or if you pressed the wrong button, the program would crash or stop working. There's also none of the creature comforts of modern engines and modding tools. You have to manually scroll through assets, there's no easy undo or copy features, and many unknown or broken features.
  
 ## Resource problems
  
 As I've talked about before, there is very little information that exists about modding early Fallout games. I have so much appreciation for the NMA forum for keeping all of these old posts and harboring a community for Fallout modders and resources. In absence of real documentation, most of my references were to forum posts which themselves lacked a lot of info (some of the entries on a post about BIS Mapper keymaps just said “crashes”). I’ll share some of those resources below:
+
+* [The guide I used to get started](https://www.nma-fallout.com/threads/how-to-journal-creation-of-the-mod-innocence-lost.213406/)
+* [Mapper Keys](https://www.nma-fallout.com/threads/mapper-keys-1-6.156587/)
+* [Wiki tutorials](https://falloutmods.fandom.com/wiki/Fallout_2_editor_introduction)
+* [Fallout 2 Modding Wiki](https://falloutmods.fandom.com/wiki/Category:Fallout_2)
+* [Another modding tutorial link](http://archive.nma-fallout.com/content.php?page=fo-modding)
+* [Additional tools/critter editors](https://www.nma-fallout.com/threads/new-tools-for-fallout-1-2.196393/#post3871106)
  
 As a sort of aside, this was also the first time I've worked on an isometric game ([although it's technically cavalier oblique](https://youtu.be/T2OxO-4YLRk?t=1356)). It also uses a hexagonal tilesystem which Tim Cain gives good reasons for in the clip I just linked, but it can be sort of hard to wrap your head around while mapping.
  
@@ -53,6 +60,8 @@ Even though this was not the easiest project ever, I’m still glad I did it and
 # Gallery & Downloads
  
 Here’s a gallery of images for the map and a video demo. There’s also downloads of the map available below; I don’t actually know if I included the right things or how to bundle it with the main game. I know there’s a tool to generate an installer but sadly I don’t have time to set that up now.
+
+[Download Abbey's map files here](https://github.com/jackburkhardt/abbey)
  
 ![park](/resources/abbey/park.png) ![library](/resources/abbey/library.png) ![farm](/resources/abbey/farm.png)
 ![ingame2](/resources/abbey/ingame2.png) ![top](/resources/abbey/top.png) ![graveyard](/resources/abbey/graveyard.png)
