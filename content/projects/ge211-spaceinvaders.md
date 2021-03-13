@@ -13,8 +13,7 @@ This is a very basic Space Invaders game made as a final project for Northwester
 
 # Design specifications
 
-These are the design specifications we submitted for the project:
-
+These are the design specifications we submitted for this project:
 
 - The aliens are initially placed in a large grid near the top of the screen
 - The aliens, as a whole block, move slowly to one side of the screen, move down, and then continue to the other side of the screen.
@@ -30,13 +29,16 @@ These are the design specifications we submitted for the project:
 
 # Challenges
 
+As with most game design, a lot of the issues we had came down to resource constraints, mainly our skill level and due dates. We made our specification in a way that had a smaller but more flexible scope, so that depending on how progress was going we could increase or decrease the amount of things we include while still remaining true to the original spec. One such example was that we only had time to program one level, but made it so that players could configure every aspect of the level to be as difficult or as easy as they would like. Another simplification we made was having a random alien shoot from the entire vector of living aliens versus only the bottom rows shooting, and just making those alien lasers pass through other aliens. This made programming alien shooting much easier.
 
+Some of the other difficulties came down to hit detection for lasers and getting the vector of aliens to render properly. Thankfully some of this code was very similar to code we had to write for previous assignments, so we were able to adapt that design to our current program. Another annoying thing to program were the "animations" we had for when player ships got destroyed, but rather than actually animate that we decided to have a timer run for a few frames that would render an explosion sprite at the player location. This was a solid workaround, but was still a little tricky to get working. We also had a sprite made for alien explosions, but after several failed or very broken attempts to implement that we decided to give up as time was running out and it was not required by our spec.
 
 # Gallery and Downloads
 
-**WARNING: If you are a current CS 211 student, *do not* try downloading this and attempt to use or submit any part of this code. There is copy protection in both my game and in the class grading servers that WILL detect plagarism and WILL get you an academic integrity violation.**
+**WARNING: If you are a current CS 211 student, *do not* download this and attempt to use or submit any part of this code. There is copy protection in both my game and in the class grading servers that WILL detect plagarism and WILL get you an academic integrity violation.**
 
 Here’s a gallery of images for the game and a video demo. There’s also downloads of the game available below; CMakeLists are provided but you will have to compile the program yourself as I have not set it up to create a standalone .exe yet with all the libraries included.
 
 [Download the Space Invaders source code here](https://github.com/jackburkhardt/ge211-spaceinvaders)
 
+![explode](/resources/spaceinvaders/explode.png) ![lategame](/resources/spaceinvaders/lategame.png) ![lose](/resources/spaceinvaders/lose.png)
