@@ -5,9 +5,13 @@ description: "An incomplete mod adding back in cut content from Fallout 2."
 tags: [fallout, fallout 2, modding, bis mapper]
 draft: false
 ---
- 
+**Project Start Date:** Fall 2020
+**Project Finish Date:** ???
+
+
 ![ingame1](/resources/abbey/ingame1.png)
  
+
 Abbey is a partially complete mod for *Fallout 2* (1998) that I made right before the start of my freshman year of college. The map itself is complete and likely playable, but it's missing NPCs, quests, and associated scripting and dialogue. Much of the story, quests, and characters exist and are in notebooks of mine, but the main reason it never got finished is that I just ran out of time when school started. I don't know if I will finish the mod but I may try to if I can get around to it.
  
 # Background
