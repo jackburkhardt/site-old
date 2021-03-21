@@ -5,7 +5,9 @@ type: home
 ---
 
 
-Hello, I'm Jack Burkhardt. I am an undergraduate student studying Computer Science and Philosophy at Northwestern University. My interests lie generally in political and ethical philosophy, social psychology, and in game design and system administration. I enjoy studying the philosophical and real world implications of a maturing internet and also designing story-based games that evoke emotion and fully utilize the power of games as an art form.  On this site you'll find my blog where I ramble incoherently about many things and a list of projects I've worked on. My resume is also available if that's what you're looking for.
+Hello, I'm Jack Burkhardt. I am an undergraduate student studying Computer Science and Philosophy at Northwestern University. On this site you'll find my blog where I ramble incoherently about many things, a list of projects I've worked on, and my personal reading list. My resume is also available if that's what you're looking for.
+
+My interests lie generally in political and ethical philosophy, social psychology, and in game design and system administration. I enjoy studying the philosophical and real world implications of a maturing internet and also designing story-based games that evoke emotion and fully utilize the power of games as an art form. I am also getting more into choice architecture in games as well as human-computer interaction methods such as virual and mixed reality.
  
 At Northwestern I'm currently Technology Chair for [Shepard Residential College](https://shepardrc.com/) and involved with the Responsible AI Student Organization ([RAISO](https://twitter.com/raisotweets)). I'll also be doing media creation for [The Daily Northwestern](https://dailynorthwestern.com/) coming Spring 2021.
  
