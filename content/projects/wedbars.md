@@ -3,7 +3,7 @@ title: "WedBars"
 date: 2021-04-18
 description: "A version of bedwars created from scratch based on the Hypixel server."
 tags: [wedbars, bedwars, spigot, plugin, bed wars, minecraft]
-draft: true
+draft: false
 ---
 **Project Start Date:** March 2021 | **Project Finish Date:** Ongoing
 
