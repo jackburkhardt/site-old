@@ -19,6 +19,7 @@ I mentioned before that many forms of this gamemode exist, and while that is tru
 
 # The process
 
-Dilan really carried this project. Since he had an extensive Spigot plugin and Java programming background, he was able to guide me and also tackle a lot of the more tricky parts of the code. This was my first time working with Java in years and using the Spigot API, so most of my time was spentll fumbling though the javadocs.
+This post is not finished since WedBars is an ongoing project. Once it's done and I've had time to think restrospectively, I'll finish the rest of this.
 
-Dilan programmed most of the game logic while I handled a lot of the powerups, event listeners, and other quality of life features.
+# Downloads & Source
+You can find the source code on [GitHub](https://github.com/dilanx/WedBars) and download nighly builds from my [Jenkins build server](http://builds.jackburkhardt.com:8080/job/WedBars-staging/).
