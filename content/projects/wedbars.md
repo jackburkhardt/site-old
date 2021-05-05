@@ -7,7 +7,7 @@ draft: false
 ---
 **Project Start Date:** March 2021 | **Project Finish Date:** Ongoing
 
-WedBars is a version of the the hugely popular Minecraft minigame mode *BedWars*, which itself is a derivative of other games such as *EggWars* and *CakeWars*. This plugin was concieved by myself and Dilan partially as a "what-if" joke and partially as a Java learning project for me but quickly turned into a full-fledged server plugin that has become a nearly identical recreation of the Hypixel server's BedWars. It contains features such as an arena setup wizard, robust configuration options, and a MYSQL-enabled player stats system.
+WedBars is a version of the the hugely popular Minecraft minigame mode *BedWars*, which itself is a derivative of other games such as *EggWars* and *CakeWars*. This plugin was concieved by myself and Dilan partially as a "what-if" joke and partially as a Java project for me but quickly turned into a full-fledged server plugin that has become a nearly identical recreation of the Hypixel server's BedWars. It contains features such as an arena setup wizard, robust configuration options, and a MYSQL-enabled player stats system.
 
 # Background on Bedwars
 
