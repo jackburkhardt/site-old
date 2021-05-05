@@ -3,7 +3,7 @@ title: hello
 url: /
 type: home
 ---
-Please note that this website is not finished yet; I have not migrated all blog posts and projects.
+*Please note that this website is not finished yet; I have not migrated all blog posts and projects.*
 \
 \
 \
