@@ -3,8 +3,10 @@ title: hello
 url: /
 type: home
 ---
-
-
+Please note that this website is not finished yet; I have not migrated all blog posts and projects.
+\
+\
+\
 Hello, I'm Jack Burkhardt. I am an undergraduate student studying Computer Science and Philosophy at Northwestern University. On this site you'll find my blog where I ramble incoherently about many things, a list of projects I've worked on, and my personal reading list. My resume is also available if that's what you're looking for.
 
 My interests lie generally in political and ethical philosophy, social psychology, and in game design and system administration. I enjoy studying the philosophical and real world implications of a maturing internet and designing story-based games that evoke emotion and fully utilize the power of games as an art form. I am also getting more into choice architecture in games as well as human-computer interaction methods such as virtual and mixed reality.
