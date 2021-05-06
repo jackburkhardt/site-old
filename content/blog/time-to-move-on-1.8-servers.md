@@ -1,0 +1,41 @@
+---
+title: "It's Time To Move On From 1.8"
+date: 2021-05-06
+description: "Why large Minecraft server networks need to start focuing on newer versions of the game."
+tags: [minecraft, pvp, servers, hypixel]
+draft: false
+---
+ 
+Minecraft is a massive game that has a large variety of subcultures that play on various multiplayer servers. Today I'll be focusing on the relationship between the Player vs Player (PvP) communities and large server networks. Specifically, I'll be talking about one large issue: Minecraft PvP servers still being stuck on 1.8. The vast majority of the Minecraft PvP community still plays on version 1.8 of the game, which released in 2014. The more often used version of 1.8 is 1.8.9, which came out near the end of 2015. Right now Minecraft is fast approaching version 1.17, slated for release in mid 2021. That means today a large segment of the Minecraft community is playing a version of the game from 6 years ago.
+
+To get a perspective on how large the Minecraft PvP community is, we can look at some data from [bStats](https://bstats.org/) and [Hypixel](https://hypixel.net/threads/removing-support-for-some-minecraft-versions-1-9-1-10.3543363/). bStats is a metric system that comes packaged with most servers, and Hypixel is the largest Minecraft server network ever.
+
+Hypixel: ![hypixel-playercount](/resources/time-to-move-on/hypixel-playercount.png) bStats: ![bstats](/resources/time-to-move-on/bstats.png)
+
+We see that a whopping 67% of Hypixel players use 1.8, or two of every three players. On the bStats front, it looks like many small servers lean to 1.16. This makes sense, as some are PvP, some modded, some Vanilla, or any combination of things not found on a large network. The other thing to note is that bStats' total aggregated player counts are not much higher than Hypixel's average player counts. What this data implicitly tells us is that most of the 1.8 PvP community spends its time on larger servers that do not share their data with bStats. Of course, Hypixel is also not the only large network with PvP, but it's an easy example to point to that has some public data available. For that reason you'll see me focus on them here, but know that this applies to almost all sizable 1.8 Minecraft networks.
+
+Large server networks also have numerous incentives to stay on 1.8:
+
+    - Their development process is likely more efficient since their teams have been working with 1.8 for so long
+
+
+    - 1.8 has much better server performance than newer versions (servers after 1.12 have had notoriously poor performance)
+
+
+    - Changing to 1.17 would break almost every facet of the servers as they are and would require thousands of hours of dev time to fix
+
+
+    - Changing to a newer version also risks losing out on the large PvP playerbase (and their money) to another server that decides to stay back
+
+
+This is likely not all of it, either. I don’t know a whole lot about how these networks operate , but there would be even more repercussions than would be visible to the average player.
+
+I’m here to argue that despite the temptation to hang on, server networks need to give up 1.8 once and for all. I can hear the cries of the Minecraft PvP community from that statement, but I’m not going to focus on that side of things since it’s not my area to speak on. The truth is that the longer server networks stay behind, the harder it’s going to be to migrate once that becomes a necessity for whatever reason. Hypixel even states in the article I linked above that trying to support every version of the game between 1.8 and 1.16 already takes way too much developer time. As a result, they've dropped support for 1.9 and 1.10 entirely. In addition, while PvP a large part of server networks today, it may not always be the dominating force of server development. Take Hypixel’s Skyblock gamemode, which is in beta but still regularly pulls 40,000-50,000 concurrent players. This doesn’t need to be on 1.8, and in fact may be an even better experience if it could take advantage of features that newer versions of the game have to offer (new items & mobs, datatypes, mechanics, HUD changes, etc). These same things apply to Housing and Arcade Games, and to eqivalent types of gamemodes on other server networks.
+
+This brings me to my second point regarding why a move from 1.8 to modern versions is necessary, which is that it opens huge doors for development possibilities. Not only do new versions of the game have new features, but there’s new ways to do existing things that are a lot less janky than trying to make them work in 1.8. As someone who’s worked on a basic level with plugins on both 1.8 and 1.16, I know there are lots of API and data structure changes from 1.8 that would make migration to 1.16 a huge pain. It gets especially difficult when you also consider that many of these networks likely have custom forks or tons of custom code to keep their infrastructure and games alive. At the same time, those changes to core parts of the game allow for so much to be done. Once the initial hurdle of learning and adapting has passed, large networks can realize the full potential of modern Minecraft.
+
+These networks may fear that by moving ahead they may lose out on the Minecraft PvP playerbase (and therefore money), but I would push back on that assertion. Since so much of this community is concentrated on these massive servers, the servers set the precedent for what people play. If big server networks decide to move to 1.17 it could likely convince a sizable chunk of the PvP playerbase to finally embrace the modern combat system. The reality is that nobody will be happy no matter which version servers are on, but at least if newer versions are embraced these networks will not be backed in a corner when 1.8 is no longer workable. 
+
+The other thing to remember is that a migration does not need to be sudden or even universal; server networks can keep existing 1.8 games, but focus new development on new versions of the game. That way, both players and servers can have the whole cake and eat it too. Once a 1.8 gamemode isn’t popular and needs to be removed, there will already be a plethora of modern games ready for players to move to. It also means developers have time to get accustomed to working with new game versions and by the time most things are moved over, they will have become as skilled as they were with 1.8. Proxies such as Waterfall and BungeeCord already have full support for 1.8 through 1.17, so this mixed-content approach would likely not require large infrastructure modifications.
+
+Keep in mind that I'm *not* a PvP player and that this is my raw opinion. Like I've said before, I'm sure there's more at play to why server networks are stuck on 1.8 other than PvP. Either way, it's important that we finally move on and embrace Minecraft's updates and the potential they bring to server networks.
