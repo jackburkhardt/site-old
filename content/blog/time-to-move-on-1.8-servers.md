@@ -16,16 +16,10 @@ We see that a whopping 67% of Hypixel players use 1.8, or two of every three pla
 
 Large server networks also have numerous incentives to stay on 1.8:
 
-    - Their development process is likely more efficient since their teams have been working with 1.8 for so long
-
-
-    - 1.8 has much better server performance than newer versions (servers after 1.12 have had notoriously poor performance)
-
-
-    - Changing to 1.17 would break almost every facet of the servers as they are and would require thousands of hours of dev time to fix
-
-
-    - Changing to a newer version also risks losing out on the large PvP playerbase (and their money) to another server that decides to stay back
+- Their development process is likely more efficient since their teams have been working with 1.8 for so long
+- 1.8 has much better server performance than newer versions (servers after 1.12 have had notoriously poor performance)
+- Changing to 1.17 would break almost every facet of the servers as they are and would require thousands of hours of dev time to fix
+- Changing to a newer version also risks losing out on the large PvP playerbase (and their money) to another server that decides to stay back
 
 
 This is likely not all of it, either. I don’t know a whole lot about how these networks operate , but there would be even more repercussions than would be visible to the average player.
