@@ -5,8 +5,6 @@ description: "A collections of presentations I've given for RAISO."
 tags: []
 draft: false
 ---
-\
-\
 Below is a list of presentations and discussions I've led for Northwestern's Responsible AI Student Organization [(RAISO)](https://raiso.org/):
 
 # May 5, 2021: Flappy Bird: Responsible vs. Addictive Product Design
