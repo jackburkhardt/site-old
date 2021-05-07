@@ -3,7 +3,7 @@ title: "It's Time To Move On From 1.8"
 date: 2021-05-06
 description: "Why large Minecraft server networks need to start focuing on newer versions of the game."
 tags: [minecraft, pvp, servers, hypixel]
-draft: false
+draft: true
 ---
  
 Minecraft is a massive game that has a large variety of subcultures that play on various multiplayer servers. Today I'll be focusing on the relationship between the Player vs Player (PvP) communities and large server networks. Specifically, I'll be talking about one large issue: Minecraft PvP servers still being stuck on 1.8. The vast majority of the Minecraft PvP community still plays on version 1.8 of the game, which released in 2014. The more often used version of 1.8 is 1.8.9, which came out near the end of 2015. Right now Minecraft is fast approaching version 1.17, slated for release in mid 2021. That means today a large segment of the Minecraft community is playing a version of the game from 6 years ago.
