@@ -12,6 +12,7 @@ Below is a list of presentations and discussions I've led for Northwestern's Res
 This presentation was about addictive product design, using Flappy Bird as a launchpad for discussion. We explore different types of addictive software design and questions about government regulation, personal responsibility, and potential soultions.
 \
 https://app.pitch.com/app/presentation/c82bfacc-a316-47ff-90e6-cf1143ba2783/921151fe-ade6-4bd5-8504-6e5301034edf
+
 # May 12, 2021: Facial Recognition Software: To see or not to see? Is there a choice at all?
 
 This presentation discussed how facial recognition software works and the types of situations it's used in. Our discussion delved into potential implications of this technology, such as how accurate it has to be for widespread use and realizing that we are already in a world full of facial recogntion.
