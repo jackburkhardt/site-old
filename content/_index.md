@@ -3,7 +3,7 @@ title: hello
 url: /
 type: home
 ---
-\
+
 
 # About me
 Hello, I'm Jack Burkhardt. I am an undergraduate student studying Computer Science and Sociology at Northwestern University. On this site you'll find my blog where I ramble incoherently about many things, a list of projects I've worked on, and other info about me. My resume is also available if that's what you're looking for.
