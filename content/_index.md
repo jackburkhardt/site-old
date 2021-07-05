@@ -16,7 +16,7 @@ Previously I worked with the now-defunct [Chicode](https://chicode.org/), an org
 
 You can reach me at ([mail **at** jackburkhardt **dot** com](mailto:mail@jackburkhardt.com)). I have a boundless appetite for knowledge and would love to talk.
 
-# Quick Links
+# Quick links
 - github: https://github.com/jackburkhardt
 - build server: http://builds.jackburkhardt.com
 - itch.io page: https://jackburkhardt.itch.io/
