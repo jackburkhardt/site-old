@@ -22,4 +22,4 @@ I mentioned before that many forms of this gamemode exist, and while that is tru
 This post is not finished since WedBars is an ongoing project. Once it's done and I've had time to think restrospectively, I'll finish the rest of this.
 
 # Downloads & Source
-You can find the source code on [GitHub](https://github.com/dilanx/WedBars) and download nighly builds from my [Jenkins build server](http://builds.jackburkhardt.com:8080/job/WedBars-staging/).
+You can find the source code on [GitHub](https://github.com/dilanx/WedBars) and download nighly builds from my [Jenkins build server](http://builds.jackburkhardt.com/).
