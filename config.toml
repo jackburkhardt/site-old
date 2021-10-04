@@ -23,9 +23,14 @@ icon = "github"
 url = "https://github.com/jackburkhardt"
 
 [[params.social]]
-name = "envelope"
-icon = "envelope"
+name = "mail"
+icon = "mail"
 url = "mailto:mail@jackburkhardt.com"
+
+[[params.social]]
+name = "linkedin"
+icon = "linkedin"
+url = "https://linkedin.com/in/jack-burkhardt"
 
 # Main menu Items
 
