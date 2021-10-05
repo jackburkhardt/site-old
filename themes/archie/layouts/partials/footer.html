@@ -1,7 +1,9 @@
 <footer>
 <hr>
 {{- range $index, $key := .Site.Params.Social -}}
-<a class="soc" href="{{ $key.url }}" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>| Licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> | {{ end }} Built with <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/athul/archie">Archie</a>
+<a class="soc" href="{{ $key.url }}" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>|
+{{- end -}}
+       Licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> | Built with <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/athul/archie">Archie</a>
 </footer>
 {{ if not .Site.IsServer }}
 {{ template "_internal/google_analytics_async.html" . }}
