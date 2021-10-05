@@ -1,7 +1,7 @@
 /* Markdown */
 :root{
---maincolor: red;
---bordercl:rebeccapurple;
+--maincolor: #7ec8e6;
+--bordercl:black;
 --callouctcolor:dodgerblue;
 --hovercolor:navy;
 --darkMaincolor: #50fa7b;
@@ -32,7 +32,7 @@ p {
 
 hr {
   border: 0;
-  border-top: 3px dotted var(--bordercl);
+  border-top: 3px solid var(--bordercl);
   margin: 1em 0;
 }
 
