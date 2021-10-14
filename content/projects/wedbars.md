@@ -5,7 +5,9 @@ description: "A version of bedwars created from scratch based on the Hypixel ser
 tags: [wedbars, bedwars, spigot, plugin, bed wars, minecraft]
 draft: false
 ---
-**Project Start Date:** March 2021 | **Project Finish Date:** Ongoing
+**Project Start Date:** March 2021 | **Project Finish Date:** Ongoing (paused)
+
+**Update:** I am currently working on a port for this plugin to the 1.13+ Spigot API. While this post is about 80% done, it is not yet suitable for production use. As always, you can view more info an submit issues on [GitHub](https://github.com/dilanx/WedBars/tree/1.13+).
 
 WedBars is a version of the the hugely popular Minecraft minigame mode *BedWars*, which itself is a derivative of other games such as *EggWars* and *CakeWars*. This plugin was concieved by myself and Dilan partially as a "what-if" joke and partially as a Java project for me but quickly turned into a full-fledged server plugin that has become a nearly identical recreation of the Hypixel server's BedWars. It contains features such as an arena setup wizard, robust configuration options, and a MYSQL-enabled player stats system.
 

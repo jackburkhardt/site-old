@@ -5,7 +5,7 @@ description: "An incomplete mod adding back in cut content from Fallout 2."
 tags: [fallout, fallout 2, modding, bis mapper]
 draft: false
 ---
-**Project Start Date:** Fall 2020 | **Project Finish Date:** ???
+**Project Start Date:** July 2020 | **Project Finish Date:** September 2020
 
 
 ![ingame1](/resources/abbey/ingame1.png)
