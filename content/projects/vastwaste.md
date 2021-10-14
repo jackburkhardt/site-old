@@ -2,7 +2,7 @@
 title: "VastWaste & Mind The Debris"
 date: 2021-08-21
 description: "A VR based art installation created as a research project."
-tags: [unity, c#, vr]
+tags: [unity, csharp, vr]
 draft: false
 ---
 **Project Start Date:** June 2021 | **Project Finish Date:** September 2021
