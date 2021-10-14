@@ -9,11 +9,11 @@ draft: false
 
 **Update:** I am currently working on a port for this plugin to the 1.13+ Spigot API. While this post is about 80% done, it is not yet suitable for production use. As always, you can view more info an submit issues on [GitHub](https://github.com/dilanx/WedBars/tree/1.13+).
 
-WedBars is a version of the the hugely popular Minecraft minigame mode *BedWars*, which itself is a derivative of other games such as *EggWars* and *CakeWars*. This plugin was concieved by myself and Dilan partially as a "what-if" joke and partially as a Java project for me but quickly turned into a full-fledged server plugin that has become a nearly identical recreation of the Hypixel server's BedWars. It contains features such as an arena setup wizard, robust configuration options, and a MYSQL-enabled player stats system.
+WedBars is a version of the the hugely popular Minecraft minigame mode *BedWars*, which itself is a derivative of other games such as *EggWars* and *CakeWars*. This plugin was conceived by myself and Dilan partially as a "what-if" joke and partially as a Java project for me but quickly turned into a full-fledged server plugin that has become a nearly identical recreation of the Hypixel server's BedWars. It contains features such as an arena setup wizard, robust configuration options, and a MYSQL-enabled player stats system.
 
 # Background on Bedwars
 
-BedWars is one of if not the most popular Minecraft minigames to ever exist, and is the largest gamemode on Hypixel which is the biggest Minecraft server network ever, averaging roughly 150,000-175,000 concurrent players at the time of this writing. While not invented by Hypixel, all forms of this gamemode (including ours) follow rougly the same overall game structure. Players are placed in teams, usually Solos, Duos, 3s, or 4s, and when the game starts they spawn on a small island which which contains some shop NPCs and a resource generator. The island generators, along with higher tiers of generators in other areas of th map, spawn ingots and gems for players to spend at their NPC shops and purchase tools, blocks, team upgrades, and powerups. Every team has a bed they must defend; if the bed is broken, they become "final kills" and will not respawn once killed. Players must destroy the beds of other teams and wipe their players while defending their own bed. The game ends when one team is left standing.
+BedWars is one of if not the most popular Minecraft minigames to ever exist, and is the largest gamemode on Hypixel which is the biggest Minecraft server network ever, averaging roughly 150,000-175,000 concurrent players at the time of this writing. While not invented by Hypixel, all forms of this gamemode (including ours) follow roughly the same overall game structure. Players are placed in teams, usually Solos, Duos, 3s, or 4s, and when the game starts they spawn on a small island which which contains some shop NPCs and a resource generator. The island generators, along with higher tiers of generators in other areas of th map, spawn ingots and gems for players to spend at their NPC shops and purchase tools, blocks, team upgrades, and powerups. Every team has a bed they must defend; if the bed is broken, they become "final kills" and will not respawn once killed. Players must destroy the beds of other teams and wipe their players while defending their own bed. The game ends when one team is left standing.
 
 # Why make another one?
 
@@ -21,7 +21,7 @@ I mentioned before that many forms of this gamemode exist, and while that is tru
 
 # The process
 
-This post is not finished since WedBars is an ongoing project. Once it's done and I've had time to think restrospectively, I'll finish the rest of this.
+This post is not finished since WedBars is an ongoing project. Once it's done and I've had time to think retrospectively, I'll finish the rest of this.
 
 # Downloads & Source
 You can find the source code on [GitHub](https://github.com/dilanx/WedBars) and download nighly builds from my [Jenkins build server](http://builds.jackburkhardt.com/).
