@@ -34,7 +34,7 @@ url = "https://linkedin.com/in/jack-burkhardt"
 
 [[params.social]]
 name = "twitch"
-icon = "witch"
+icon = "twitch"
 url = "https://twitch.tv/12point5"
 # Main menu Items
 
