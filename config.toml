@@ -36,6 +36,7 @@ url = "https://linkedin.com/in/jack-burkhardt"
 name = "twitch"
 icon = "twitch"
 url = "https://twitch.tv/12point5"
+
 # Main menu Items
 
 [[menu.main]]
