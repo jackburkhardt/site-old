@@ -14,3 +14,6 @@ The assignment requirements were just to make a simple game while implementing c
 # Download and source code
 
 You can find the source code on the [GitHub repository](https://github.com/jackburkhardt/chefhunt) and builds of the game for Windows, macOS, and Linux under the [Releases](https://github.com/jackburkhardt/chefhunt/releases) page.
+
+# Pictures
+TODO

@@ -14,3 +14,6 @@ The assignment requirements were just to make a simple 2D arcade-type game while
 # Download and source code
 
 You can find the source code on the [GitHub repository](https://github.com/jackburkhardt/JABS) and builds of the game for Windows, macOS, and Linux under the [Releases](https://github.com/jackburkhardt/JABS/releases) page.
+
+# Pictures
+TODO
