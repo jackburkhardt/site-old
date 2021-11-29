@@ -13,7 +13,7 @@ While my original plan was just to re-implement *Crossy Road* but in first perso
 
 # Download and source code
 
-You can find the source code on the [GitHub repository](https://github.com/jackburkhardt/chefhunt) and builds of the game for Windows, macOS, and Linux under the [Releases](https://github.com/jackburkhardt/chefhunt/releases) page.
+You can find the source code on the [GitHub repository](https://github.com/roadkill/chefhunt) and builds of the game for Windows, macOS, and Linux under the [Releases](https://github.com/roadkill/chefhunt/releases) page.
 
 # Pictures
 TODO
