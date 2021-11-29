@@ -14,6 +14,8 @@ While I don't have accurate metrics across server iterations, over 250 players f
 Here are some key tenets of my design of these servers and how I went about implementing them:
 
 ### Accessibility for new or inexperienced players 
+A driving goal of my design was for this server to accommodate players of any skill level, whether they've never played before or have been playing for a decade. I explain more about how this works below, but some key focuses were on providing resources for help and allowing extra or more advanced content to be optional for inexperienced players.
+
 Upon logging in, players would receive a book with information about the server itself, its rules, and any custom content. We also had [written documentation](https://docs.google.com/document/d/1M3Pj1upfYACaIvH_9hX_CI2bOQamLUoKqvhOX_qquZ0/edit?usp=sharing) for some common server commands that players would frequently find themselves using. For the first two maps, we also chose to implement cross-compatibility between Java and Bedrock editions of the game, so that console or mobile users could also join in. This feature was later removed in map 3 due to moderation difficulties and missing Minecraft features that hurt the Bedrock player experience.
 
 ### Focus on community building
