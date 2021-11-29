@@ -1,6 +1,6 @@
 ---
 title: "The Abbey: A Fallout 2 Mod"
-date: 2021-03-12
+date: 2021-09-12
 description: "An incomplete mod adding back in cut content from Fallout 2."
 tags: [fallout, fallout 2, modding, bis mapper]
 draft: false
