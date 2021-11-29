@@ -19,9 +19,9 @@ BedWars is one of if not the most popular Minecraft minigames to ever exist, and
 
 I mentioned before that many forms of this gamemode exist, and while that is true, they are almost all created by large server networks with teams of paid developers and all of the code is kept secret. While I was trying to look for a Spigot plugin to run my own BedWars server with, I realized that a lot of the ones that were made by the community lacked features, polish, or updates. So Dilan and I's goal soon turned from just making another version of BedWars for private servers into making a fully-features and polished plugin that could eventually be released to the Minecraft server modding community. In addition to just being able to run our own games, ourselves or other users of this plugin could code in their own powerups or other twists on the gamemode to further improve it.
 
-# The process
+# Thinking beyond 1.8
 
-This post is not finished since WedBars is an ongoing project. Once it's done and I've had time to think retrospectively, I'll finish the rest of this.
+Most Bedwars players and servers still operate on Minecraft version 1.8 from 2013 due to the different PvP mechanics. I view the PvP community's reluctance to move past 1.8 as quite a shame since there are so many fresh and innovative possibilities created by the new PvP system and new game features. So in addition to working on a version of this project for 1.8, I've been porting Wedbars to use the 1.13+ Spigot API (for support of Minecraft versions 1.13-1.17). This port is now almost complete, and once the fundamentals are working I can then turn towards implementing new features made possible by newer versions of the game. New 1.13+ features could include anything from new powerups and blocks to smaller changes like properly colored beds for each team.
 
 # Downloads & Source
 You can find the source code on [GitHub](https://github.com/dilanx/WedBars) and download nighly builds from my [Jenkins build server](http://builds.jackburkhardt.com/).
