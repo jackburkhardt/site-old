@@ -3,7 +3,7 @@ title: "\"Esports Games\": Team Fortress 2 and Overwatch"
 date: 2021-02-02
 description: "Taking a look at what makes a good esports game through the lens of a bad esports game."
 tags: [tf2, esports, game design]
-draft: true
+draft: false
 ---
 
 I’ve been a big fan of Team Fortress 2 for about 7 years now. Which sounds like a lot, but my 7 years and 900 hours is nowhere near the decade plus and thousands of hours many other players have dedicated to the game. Still, I’ve been able to experience a lot of what the game and its community have to offer, from trading to mapmaking to community servers and much more.
@@ -12,7 +12,7 @@ There’s been one part of TF2 that was of special interest to me for a long tim
 
 That’s quite an assertion, but it makes a lot of sense. If you just look at the design of weapons, characters, updates, comics, or pretty much any other official TF2 content, it’s pretty clear the game is designed as a casual experience. I want to take a little dive into the issues with competitive TF2, using comparisons to its younger, more popular, and more loved cousin, Overwatch. 
 
-A couple notes here: Yes, I know what I’m saying is pretty obvious to anyone who knows anything about competitive TF2. This is mainly an exercise in pointing out the features that make a good esports game by comparing it to a bad one. The other note is that most of what I say here applies to other strong esports games; Overwatch just happens to be a game of similar style and overlap. There’s a lot more involved in making a good esports scene, but this focuses on what the game itself should be able to bring to the table.
+A couple notes here: What I'm saying may be pretty obvious to anyone who knows anything about competitive TF2. This is mainly an exercise in pointing out the features that make a good esports game by comparing it to a bad one. The other note is that most of what I say here applies to other strong esports games; Overwatch just happens to be a game of similar style to TF2. There’s a lot more involved in making a good esports scene, but this focuses on what the game itself should be able to bring to the table.
 
 **Developer backing is vital.**
 
