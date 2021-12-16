@@ -15,5 +15,7 @@ The assignment requirements were just to make a simple game while implementing c
 
 You can find the source code on the [GitHub repository](https://github.com/jackburkhardt/chefhunt) and builds of the game for Windows, macOS, and Linux under the [Releases](https://github.com/jackburkhardt/chefhunt/releases) page.
 
-# Pictures
-TODO
+# Gallery
+
+![pol](/resources/chefhunt/pol.png) ![gameplay](/resources/chefhunt/gameplay.gif) ![frenzy](/resources/chefhunt/frenzy.png)
+![frenzygif](/resources/chefhunt/frenzy.gif)

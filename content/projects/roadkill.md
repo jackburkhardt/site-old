@@ -15,5 +15,6 @@ While my original plan was just to re-implement *Crossy Road* but in first perso
 
 You can find the source code on the [GitHub repository](https://github.com/jackburkhardt/roadkill) and builds of the game for Windows, macOS, and Linux under the [Releases](https://github.com/jackburkhardt/roadkill/releases) page.
 
-# Pictures
-TODO
+# Gallery
+
+![scene1](/resources/roadkill/scene1.png) ![gameplay](/resources/roadkill/gameplay-1.gif) ![scene2](/resources/roadkill/scene2.png)
