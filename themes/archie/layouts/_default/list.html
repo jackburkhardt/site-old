@@ -12,7 +12,7 @@
 					{{- end -}}
 				</div>
 				{{ $p := slice (replace .Dir "/" "") }}
-                {{ $pages := where .Site.Pages "Params.tags" "intersect" "blog"}}
+                {{ $pages := where .Site.Pages "Params.tags" "intersect" (slice "blog")}}
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
 				<section class="list-item">
