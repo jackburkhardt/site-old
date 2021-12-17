@@ -11,6 +11,7 @@
 					<p>{{ .Site.Params.Subtitle | markdownify }}</p>
 					{{- end -}}
 				</div>
+				{{ printf "%#v" .CurrentSection }}
                 {{ $pages := where .Site.Pages "Params.tags" "intersect" (slice .CurrentSection )}}
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
