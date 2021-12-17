@@ -19,5 +19,5 @@ You can find the source code on the [GitHub repository](https://github.com/jackb
 
 # Gallery
 
-![gameplay](/resources/chefhunt/gameplay.gif) ![frenzy](/resources/chefhunt/frenzy.png)
-![frenzygif](/resources/chefhunt/frenzy.gif)
+![gameplay](/resources/chefhunt/gameplay.webm) ![frenzy](/resources/chefhunt/frenzy.png)
+![frenzygif](/resources/chefhunt/frenzy.webm)

@@ -19,4 +19,4 @@ You can find the source code on the [GitHub repository](https://github.com/jackb
 
 # Gallery
 
- ![gameplay](/resources/roadkill/gameplay-1.gif) ![scene2](/resources/roadkill/scene2.png)
+ ![gameplay](/resources/roadkill/gameplay.webm) ![scene2](/resources/roadkill/scene2.png)
