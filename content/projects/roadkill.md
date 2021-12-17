@@ -19,4 +19,5 @@ You can find the source code on the [GitHub repository](https://github.com/jackb
 
 # Gallery
 
- ![gameplay](/resources/roadkill/gameplay.webm) ![scene2](/resources/roadkill/scene2.png)
+{{< rawhtml >}}<video controls src="/resources/roadkill/gameplay.webm"></video>{{< /rawhtml >}}
+![scene2](/resources/roadkill/scene2.png)

@@ -19,5 +19,5 @@ You can find the source code on the [GitHub repository](https://github.com/jackb
 
 # Gallery
 
-![gameplay](/resources/chefhunt/gameplay.webm) ![frenzy](/resources/chefhunt/frenzy.png)
-![frenzygif](/resources/chefhunt/frenzy.webm)
+{{< rawhtml >}}<video controls src="/resources/roadkill/gameplay.webm"></video>{{< /rawhtml >}} ![frenzy](/resources/chefhunt/frenzy.png)
+{{< rawhtml >}}<video controls src="/resources/roadkill/frenzy.webm"></video>{{< /rawhtml >}}
