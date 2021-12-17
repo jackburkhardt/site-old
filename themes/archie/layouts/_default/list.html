@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 	{{ partial "header.html" . }}
-	<head><title>{{ .Section }} | jack burkhardt</title></head>
 	<body>
 		<div class="content">
 			{{ partial "head.html" . }}
@@ -29,8 +28,8 @@
 				</section>
 				{{ end }}
 				{{ template "partials/paginator.html" . }}
-				{{- "" -}}
 			</main>
+			{{- "" -}}
 			{{ partial "footer.html" . }}
 		</div>
 		
