@@ -2,7 +2,7 @@
 title: "RAISO Presentations"
 date: 2021-05-05
 description: "A collections of presentations I've given for RAISO."
-tags: []
+tags: [projects]
 draft: false
 ---
 Below is a list of presentations and discussions I've led for Northwestern's Responsible AI Student Organization [(RAISO)](https://raiso.org/). Unfortunately our Zoom meetings are not recorded, but if I do manage to get a recording I'll link it too.

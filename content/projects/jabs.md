@@ -2,7 +2,7 @@
 title: "Just Another Box Stacker"
 date: 2021-11-08
 description: "A mobile game recreation for a CS 376 homework assignment."
-tags: [unity, csharp, northwestern, game design]
+tags: [projects, unity, csharp, northwestern, game design]
 draft: false
 ---
 **Project Start Date:** November 4th, 2021 | **Project Finish Date:** November 7th, 2021

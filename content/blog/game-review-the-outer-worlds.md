@@ -2,7 +2,7 @@
 title: "Game Review: The Outer Worlds"
 date: 2021-12-12
 description: "A casual review of a game I played recently."
-tags: [obsidian, outer worlds, game design]
+tags: [blog, obsidian, outer worlds, game design]
 draft: false
 ---
 

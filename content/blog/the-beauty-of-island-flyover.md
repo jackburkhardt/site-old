@@ -2,7 +2,7 @@
 title: "Wii Sports Resort's Island Flyover Masterpiece (Part 1)"
 date: 2021-02-13
 description: "How is the Island Flyover game so simple yet so beloved, and can I make it better?"
-tags: [wii, game design, island flyover]
+tags: [blog, wii, game design, island flyover]
 draft: true
 ---
 The Wii was the only home console I’ve ever owned, but with it came a world of classics in video games that I spent so much of my younger years lost in. In retrospect, I have no idea how I managed to stay entertained by the same 4 games for so long, but maybe that’s just a sign that my childhood imagination has left me.

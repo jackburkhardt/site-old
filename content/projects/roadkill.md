@@ -2,7 +2,7 @@
 title: "ROADKILL!"
 date: 2021-11-27
 description: "Final project game for Northwestern CS 376."
-tags: [unity, csharp, northwestern, game design]
+tags: [projects, unity, csharp, northwestern, game design]
 draft: false
 ---
 **Project Start Date:** November 27th, 2021 | **Project Finish Date:** November 27th, 2021

@@ -2,7 +2,7 @@
 title: "It's Time To Move On From 1.8"
 date: 2021-05-06
 description: "Why large Minecraft server networks need to start focuing on newer versions of the game."
-tags: [minecraft, pvp, servers, hypixel]
+tags: [blog, minecraft, pvp, servers, hypixel]
 draft: true
 ---
  

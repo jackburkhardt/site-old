@@ -2,7 +2,7 @@
 title: "Northwestern Minecraft Server"
 date: 2020-03-24
 description: "A Minecraft server for the Northwestern community."
-tags: [minecraft, server, northwestern]
+tags: [projects, minecraft, server, northwestern]
 draft: false
 ---
 **Project Start Date:** Early 2020 | **Project Finish Date:** Ongoing
