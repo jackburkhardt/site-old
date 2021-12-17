@@ -1,7 +1,7 @@
 ---
 title: "Just Another Box Stacker"
 date: 2021-11-08
-description: "A mobile game recreation for a CS 376 homework assignment."
+description: "A simple 2D game where you stack boxes as high as you can without letting them fall."
 tags: [projects, unity, csharp, northwestern, game design]
 draft: false
 ---

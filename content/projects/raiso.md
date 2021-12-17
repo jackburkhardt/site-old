@@ -1,7 +1,7 @@
 ---
 title: "RAISO Presentations"
 date: 2021-05-05
-description: "A collections of presentations I've given for RAISO."
+description: "A collections of presentations I've given for RAISO, an organization promoting responsible AI usage."
 tags: [projects]
 draft: false
 ---

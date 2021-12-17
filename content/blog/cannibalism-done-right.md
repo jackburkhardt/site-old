@@ -1,7 +1,7 @@
 ---
 title: "Cannibalism Done Right"
 date: 2021-12-07
-description: "Examining how cannibalism is used in The Outer Worlds compared to Fallout."
+description: "Examining how cannibalism is used in The Outer Worlds in comparison to other games."
 tags: [blog, fallout, outer worlds, game design]
 draft: false
 ---

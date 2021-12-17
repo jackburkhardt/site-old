@@ -1,7 +1,7 @@
 ---
 title: "chefhunt"
 date: 2021-11-15
-description: "A horror baking sim for a CS 376 homework assignment."
+description: "A 3D horror baking simulator...can you bake the cake before getting caught?"
 tags: [projects, unity, csharp, northwestern, game design]
 draft: false
 ---

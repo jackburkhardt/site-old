@@ -1,7 +1,7 @@
 ---
 title: "\"Esports Games\": Team Fortress 2 and Overwatch"
 date: 2021-02-02
-description: "Taking a look at what makes a good esports game through the lens of a bad esports game."
+description: "Taking a look at what makes a \"good\" esports game through the lens of a \"bad\" esports game."
 tags: [blog, tf2, esports, game design]
 draft: false
 ---
