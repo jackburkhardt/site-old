@@ -11,8 +11,9 @@
 					<p>{{ .Site.Params.Subtitle | markdownify }}</p>
 					{{- end -}}
 				</div>
-				{{ printf "%#v" .Dir }}
-                {{ $pages := where .Site.Pages "Params.tags" "intersect" (slice .Dir )}}
+				{{ printf "%#v" .Page.Slug }}
+                {{ $pages := where .Site.Pages "Params.tags" "intersect" (slice .Page.Slug )}}
+				{{ printf "%#v" .Slug }}
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
 				<section class="list-item">
