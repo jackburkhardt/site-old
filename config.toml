@@ -13,7 +13,7 @@ paginate=10 # articles per page
 [params]
 	mode="toggle" # color-mode → light,dark or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Site is still under construction. Check back later."
+	subtitle = ""
 
 # Social Tags
 
