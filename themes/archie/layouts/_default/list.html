@@ -11,7 +11,8 @@
 					<p>{{ .Site.Params.Subtitle | markdownify }}</p>
 					{{- end -}}
 				</div>
-				{{ $pages := .Site.RegularPages.RelatedTo (keyVals "tags" {{ replace .Dir "/" "" }}) }}
+				{{ $p := {{ replace .Dir "/" "" }} }}
+                {{ range where .Data.Pages.ByTitle "Params.tags" "intersect" $p}}
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
 				<section class="list-item">
