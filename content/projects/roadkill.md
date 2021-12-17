@@ -1,7 +1,7 @@
 ---
 title: "ROADKILL!"
 date: 2021-11-27
-description: "A first-person recreation of Crossy Road, now with 1000% more rubber ducks!"
+description: "A first-person recreation of Crossy Road, now with 10x more rubber ducks!"
 tags: [projects, unity, csharp, northwestern, game design]
 draft: false
 ---
