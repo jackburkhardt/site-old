@@ -12,7 +12,7 @@
 					{{- end -}}
 				</div>
 				{{ $p := (replace .Dir "/" "") }}
-                {{ range where .Data.Pages.ByTitle "Params.tags" "intersect" $p}}
+                {{ $pages := where .Site.RegularPages "Params.tags" "intersect" $p}}
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
 				<section class="list-item">
