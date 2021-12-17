@@ -5,6 +5,8 @@
 	{{- $siteTitle := ( .Site.Title ) -}}
 	{{- if .IsHome -}}
 	<title>{{ $siteTitle }}</title>
+	{{- else if .IsPage -}}
+	<title>{{ $title }} | {{ $siteTitle }}</title>
 	{{- else -}}
 	<title>{{ .Section }} | {{ $siteTitle }}</title>
 	{{- end -}}
