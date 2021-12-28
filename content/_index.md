@@ -24,6 +24,6 @@ You can reach me at ([mail **at** jackburkhardt **dot** com](mailto:mail@jackbur
 
 # Quick links
 - github: https://github.com/jackburkhardt
+- hosting dashboard: https://cp.twelvepointfive.us
 - build server: http://builds.jackburkhardt.com
 - itch.io page: https://jackburkhardt.itch.io/
-- system status: https://status.jackburkhardt.com
