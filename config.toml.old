@@ -1,7 +1,7 @@
 baseURL = "https://jackburkhardt.com/"
 languageCode = "en-us"
 title = "jack burkhardt"
-theme = "archie"
+theme = "PaperMod"
 copyright = "© Jack Burkhardt"
 # Code Highlight
 pygmentsstyle = "monokai"
