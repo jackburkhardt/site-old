@@ -3,7 +3,7 @@ title: "[UPCOMING] Ari"
 date: 2021-12-23
 description: "A game about choice, regret, and codependency."
 tags: [projects, unity, csharp, game design, ari]
-draft: false
+draft: true
 ---
 **Project Start Date:** December 14th, 2021
 **Role(s):** Writer, Designer, Programmer
