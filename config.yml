@@ -55,8 +55,7 @@ params:
 
   homeInfoParams:
     title: "Hi, I'm Jack."
-    content: "I am an undergraduate student studying Computer Science and Sociology at Northwestern University. On this site you'll find my blog where I ramble incoherently about many things, a list of projects I've worked on, and other info about me. My resume is also available if that's what you're looking for.\ 
-    My interests lie generally in interactive entertainment, ethics, and social psychology. I enjoy studying the philosophical and real world implications of a maturing internet and designing story-based games that fully utilize the power of games as an art form. I am also getting more into human-computer interaction methods such as virtual and mixed reality."
+    content: "I am an undergraduate student studying Computer Science and Sociology at Northwestern University. My interests lie generally in interactive entertainment, ethics, and social psychology. For more info about me, see my [about page](https://jackburkhardt.com/about/) or my most recent projects below."
 
   # profile-mode
 #  profileMode:
@@ -117,18 +116,22 @@ menu:
       name: home
       url: /
       weight: 10
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 30
     - identifier: projects
       name: projects
       url: /projects/
-      weight: 20
+      weight: 30
     - identifier: blog
       name: blog
       url: /blog/
-      weight: 30
+      weight: 40
     - identifier: resume
       name: resume
       url: /resume/jack-burkhardt-resume-wi22.pdf
-      weight: 40
+      weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:

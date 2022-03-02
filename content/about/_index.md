@@ -1,6 +1,5 @@
 ---
-title: hello
-url: /
+title: about me
 type: home
 ---
 
