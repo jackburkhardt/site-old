@@ -55,7 +55,7 @@ params:
 
   homeInfoParams:
     title: "Hi, I'm Jack."
-    content: "I am an undergraduate student studying Computer Science and Sociology at Northwestern University. My interests lie generally in interactive entertainment, ethics, and social psychology. For more info about me, see my [about page](https://jackburkhardt.com/about/) or my most recent projects below."
+    content: "I am an undergraduate student studying Computer Science and Sociology at Northwestern University. My interests lie generally in interactive entertainment, sociology, and human-computer interaction. For more info about me, see my [about page](https://jackburkhardt.com/about/) or my most recent projects below."
 
   # profile-mode
 #  profileMode:
