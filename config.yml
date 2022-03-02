@@ -1,6 +1,6 @@
 baseURL: "https://jackburkhardt.com/"
 title: jack burkhardt
-paginate: 5
+paginate: 7
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -54,23 +54,23 @@ params:
     iconHeight: 35
 
   homeInfoParams:
-    Title: "Jack Burkhardt"
-    Content: "Current CS + Sociology student at Northwestern University"
+    title: "Jack Burkhardt"
+    content: "Current CS + Sociology student at Northwestern University"
 
   # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+#  profileMode:
+ #   enabled: false # needs to be explicitly set
+ #   title: ExampleSite
+ #   subtitle: "This is subtitle"
+ #   imageUrl: "<img location>"
+  #  imageWidth: 120
+ #   imageHeight: 120
+  #  imageTitle: my image
+ #   buttons:
+ #     - name: Posts
+  #      url: posts
+  #    - name: Tags
+  #      url: tags
 
   socialIcons:
     - name: email
