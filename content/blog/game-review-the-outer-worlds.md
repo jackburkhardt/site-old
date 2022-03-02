@@ -3,7 +3,7 @@ title: "Game Review: The Outer Worlds"
 date: 2021-12-12
 description: "A great game and fantastic new IP that left me more excited for its successor."
 tags: [blog, obsidian, outer worlds, game design]
-draft: false
+draft: true
 ---
 
 This will be the first in what I hope will be a continuous series of reviews of games I’ve played, both video and non-video. Do keep in mind that what I say here is just my opinion, and is not a reflection of the overall quality of the game or experiences of other players. While I’ve also talked about *The Outer Worlds* [here before](https://jackburkhardt.com/blog/cannibalism-done-right/), this will be a more general review of the game. I also won’t be doing any expository sections for the games I review, since those are already done much better by more formal reviews or by Wikipedia. All of my reviews will contain spoilers, so consider this a warning if you’d like to play for yourself first. 
