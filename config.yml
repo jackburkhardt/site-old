@@ -81,6 +81,8 @@ params:
       url: "https://twitch.tv/12point5"
     - name: linkedin
       url: "https://linkedin.com/in/jack-burkhardt"
+    - name: itchio
+      url: "https://jackburkhardt.itch.io/"
 
 #  analytics:
 #    google:
