@@ -13,7 +13,7 @@ The principal difference between these pieces is that *Mind the Debris* uses a H
 
 Details, pictures, and more information about this piece can be found on Ozge Samanci's website (hyperlinked above). I will not do a full writeup here like I usually do for my projects since she has already covered most of the information I would usually include!
 
-# Additional information & resources
+## Additional information & resources
 
 I unfortunately cannot include a link to the code or build for this project until Prof. Samanci gives her express permission. However, my work on this project is highly documented and I would be happy to explain how some of the systems in this piece work on a higher level.
 

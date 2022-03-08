@@ -3,7 +3,7 @@ title: "Northwestern Minecraft Server"
 date: 2020-03-24
 description: "A long-standing Minecraft survival server made for the Northwestern community."
 tags: [projects, minecraft, server, northwestern]
-draft: true
+draft: false
 ---
 **Project Start Date:** Early 2020 | **Project Finish Date:** Ongoing
 
@@ -31,11 +31,11 @@ Despite all of these things, this server was actually very close to vanilla Mine
 ### High performance servers
 My goal was to have as little bloat as possible that would affect this server's performance, since its baseline demands were so high -- tens of players all over the map exploring and doing stuff at once plus activity loggers for our web map and moderation tools requires a lot of computing power. My solution on the software side was to keep the number of server plugins down and use server software such as [Paper](https://github.com/PaperMC/Paper) to help meet our needs. I programmed in any extra features that were essential to the server but did not require an entire plugin. On the hardware side, this server ran on a recently purchased Dell R430 machine with faster CPU, SSD, and RAM speeds to keep up with the processing demands.
 
-# World downloads
+## World downloads
 
 You can find world downloads [here](https://drive.google.com/drive/folders/1FR7JbUFGJXvERUmktMjmRGRukG1UjnBE?usp=sharing).
 
 If the server is still up, you can view a web map of the current server here: https://map.numc.me
 
-# Pictures
+## Pictures
 TODO

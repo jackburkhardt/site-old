@@ -8,10 +8,22 @@ draft: true
 **Project Start Date:** January 6th, 2022
 **Role(s):** Writer, Designer, Programmer
 
-*Ari* is a game I am working on with [Erin Park](https://erinpark.org) and Clover.
+![demo1](/resources/willowsquest/demo-1.png)
 
-Ari explores themes of codependent relationships, guilt, and personal responsibility. It makes the player question the choices they make about how to help a friend in need. It recounts a single day in the main character's life that the player can play over and over again, making different choices each time to different outcomes. What is the right way to handle your friend's situation? What is the best way? Are those the same??
+*Willow's Quest* is a game I made with [Kevin Mendoza Tudares](https://mendozatudares.github.io/) and [Beck Mallwitz](https://imallwitz.github.io/artportfolio/) for Northwestern's CS 377 Game Development Studio course. Kevin did a ton of work on the combat system and UI, Beck did a lot of art and sound design, and I did most of the writing and gameplay programming.
 
-This game is intended to be the first implementation of my branching dialogue system [TalkTree](https://jackburkhardt.com/projects/treetalk). There is no planned release date.
+The game follows Willow, an anthropomorphic cat, who has lost their gelatin friend in the forest behind their house. They must venture into the forest to save their friend from the clutches of a Bear, along the way encountering various forest creatures. The gameplay is most akin to an RPG with turn-based combat and somewhat nonlinear questing. The biggest addition to combat we made was a mood system which affects damage output and critical hit chance, inspired by *Omori*. Other direct inspirations for this game included older *Pokemon* games, *Undertale*, and *Earthbound*.
 
-# Concept art
+## Reflections
+
+I honestly wish we went with a different type of game. While we all loved RPGs like the inspirations mentioned above, there simply was not enough time in the class to make a game with such complex systems. The result is a game that tries to do some substantial things but ends up falling short due to limits on time and resources. There just isn't enough of some core RPG aspects present here, such as engaging combat, interesting writing and characters, player agency, and progression. Instead it may have been better for us to choose a style of game that would be easy to make but have it be very polished. Regardless, I still had a wonderful time making this game and all three of us learned a lot along the way.
+
+## Download and source code
+
+You can find the source code on the [GitHub repository](https://github.com/jackburkhardt/willowsquest) and builds of the game for Windows, macOS, and Linux under the [Releases](https://github.com/jackburkhardt/willowsquest/releases) page.
+
+## Gallery
+
+{{< rawhtml >}}<video width="100%" height="auto" controls loop autoplay> <source src="/resources/willowsquest/wq-talk.webm" type="video/webm"></video>{{< /rawhtml >}} 
+![demo2](/resources/willowsquest/demo-2.png)
+{{< rawhtml >}}<video width="100%" height="auto" controls loop autoplay> <source src="/resources/willowsquest/wq-battle.webm" type="video/webm"></video>{{< /rawhtml >}}

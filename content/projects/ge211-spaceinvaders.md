@@ -11,7 +11,7 @@ draft: false
 
 This is a very basic Space Invaders game made as a final project for Northwestern University's CS 211 course. The game is programmed using C++ and rendered using [ge211](https://github.com/tov/ge211), an engine made by Professor Jesse Tov using the SDL2 libraries. It was made in roughly 5 days, and the programming reflects that pretty well. It's not the finest piece of programming, but it's also the first large C++ program I've made, much less a game.
 
-# Design specifications
+## Design specifications
 
 These are the design specifications we submitted for this project:
 
@@ -27,13 +27,13 @@ These are the design specifications we submitted for this project:
 - If the aliens reach the bottom of the screen -- the player's y-position -- it is game over
 - A simple point system keeps track of the player's score for hitting the aliens
 
-# Challenges
+## Challenges
 
 As with most game design, a lot of the issues we had came down to resource constraints, mainly our skill level and due dates. We made our specification in a way that had a smaller but more flexible scope, so that depending on how progress was going we could increase or decrease the amount of things we include while still remaining true to the original spec. One such example was that we only had time to program one level, but made it so that players could configure every aspect of the level to be as difficult or as easy as they would like. Another simplification we made was having a random alien shoot from the entire vector of living aliens versus only the bottom rows shooting, and just making those alien lasers pass through other aliens. This made programming alien shooting much easier.
 
 Some of the other difficulties came down to hit detection for lasers and getting the vector of aliens to render properly. Thankfully some of this code was very similar to code we had to write for previous assignments, so we were able to adapt that design to our current program. Another annoying thing to program were the "animations" we had for when player ships got destroyed, but rather than actually animate that we decided to have a timer run for a few frames that would render an explosion sprite at the player location. This was a solid workaround, but was still a little tricky to get working. We also had a sprite made for alien explosions, but after several failed or very broken attempts to implement that we decided to give up as time was running out and it was not required by our spec.
 
-# Gallery and Downloads
+## Gallery and Downloads
 
 **WARNING: If you are a current CS 211 student, *do not* download this and attempt to use or submit any part of this code. There is copy protection in both my game and in the class grading servers that WILL detect plagarism and WILL get you an academic integrity violation.**
 

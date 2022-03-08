@@ -13,11 +13,11 @@ This game was a homework assignment for Northwestern CS 376, made in roughly 3-4
 
 The assignment requirements were just to make a simple game while implementing certain requirements for physics and object behaviors. I chose to implement my game in 3D instead of 2D, and while it was not mentioned or required by the assignment I figured it would be good practice with Unity3D. I used this game as a way to experiment more with lighting, materials, models, animation rigging, and systems for managing game functions (such as a game state system or a beefed up version of the audio handler from the last assignment I did).
 
-# Download and source code
+## Download and source code
 
 You can find the source code on the [GitHub repository](https://github.com/jackburkhardt/chefhunt) and builds of the game for Windows, macOS, and Linux under the [Releases](https://github.com/jackburkhardt/chefhunt/releases) page.
 
-# Gallery
+## Gallery
 
 {{< rawhtml >}}<video width="100%" height="auto" controls loop autoplay> <source src="/resources/chefhunt/gameplay.webm" type="video/webm"></video>{{< /rawhtml >}} 
 ![frenzy](/resources/chefhunt/frenzy.png)

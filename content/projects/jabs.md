@@ -13,10 +13,10 @@ JABS was a homework assignment for Northwestern CS 376, made in roughly 3-4 days
 
 The assignment requirements were just to make a simple 2D arcade-type game while implementing certain requirements for physics and object behaviors. My focuses when making this game were on simplicity and pleasing aesthetics, but I also used it as a time to experiment with camera movement, menus, and new ways to organize the technical systems of the game.
 
-# Download and source code
+## Download and source code
 
 You can find the source code on the [GitHub repository](https://github.com/jackburkhardt/JABS) and builds of the game for Windows, macOS, and Linux under the [Releases](https://github.com/jackburkhardt/JABS/releases) page.
 
-# Gallery
+## Gallery
 
 ![title](/resources/jabs/title.png) ![gameover](/resources/jabs/gameover.png)

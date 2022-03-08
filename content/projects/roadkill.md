@@ -13,11 +13,11 @@ This game was created as the result of a COVID booster induced fever dream about
 
 While my original plan was just to re-implement *Crossy Road* but in first person, I ended up deciding that I didn't want to create an endless runner game and instead give people more reason to weave through each lane of traffic. The way I did this was by switching to a level-based approach and sprinkling in rubber ducks that the player must collect in order to proceed. These ducks would be all over the roads and would also require the player to reach every single part of the level from easiest to most difficult.
 
-# Download and source code
+## Download and source code
 
 You can find the source code on the [GitHub repository](https://github.com/jackburkhardt/roadkill) and builds of the game for Windows, macOS, and Linux under the [Releases](https://github.com/jackburkhardt/roadkill/releases) page.
 
-# Gallery
+## Gallery
 
 {{< rawhtml >}}<video width="100%" height="auto" controls loop autoplay> <source src="/resources/roadkill/gameplay.webm" type="video/webm"></video>{{< /rawhtml >}} 
 ![scene2](/resources/roadkill/scene2.png)
