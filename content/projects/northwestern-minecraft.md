@@ -1,8 +1,8 @@
 ---
 title: "Northwestern Minecraft Server"
-date: 2020-03-24
+date: 2021-03-24
 description: "A long-standing Minecraft survival server made for the Northwestern community."
-tags: [projects, minecraft, server, northwestern]
+tags: [projects, minecraft, server, northwestern, featured]
 draft: false
 ---
 **Project Start Date:** Early 2020 | **Project Finish Date:** Ongoing
