@@ -7,6 +7,8 @@ draft: false
 ---
 **Project Start Date:** June 2021 | **Project Finish Date:** October 2021
 
+![VWposter](/resources/vastwaste/posterVW.jpg)
+
 [VastWaste](https://www.ozgesamanci.com/#/vastwaste/) and [Mind the Debris](https://www.ozgesamanci.com/#/mind-the-debris/) are two versions of the same project I worked on as part of a research grant for Summer 2021. I worked under Prof. Ozge Samanci, an artist and instructor at Northwestern University. I am continuing my work under her as a work-study research aide.
 
 The principal difference between these pieces is that *Mind the Debris* uses a HTC Vive with attached EEG sensors. The sensor data gets sent over to Unity and impacts parts of the installation, including music and collisions. The *VastWaste* version uses other sources of data to handle debris timing and frequency, such as ocean currents and Twitter data.
