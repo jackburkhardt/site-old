@@ -3,7 +3,7 @@ title: "Space Invaders using ge211"
 date: 2021-03-13
 description: "Simple space invaders game made using Jesse Tov's ge211 engine."
 tags: [projects, space invaders, ge211, C, C++]
-draft: false
+draft: true
 ---
 **Project Start Date:** March 2021 | **Project Finish Date:** March 2021
 

@@ -3,7 +3,7 @@ title: "Just Another Box Stacker"
 date: 2021-11-08
 description: "A simple 2D game where you stack boxes as high as you can without letting them fall."
 tags: [projects, unity, csharp, northwestern, game design]
-draft: false
+draft: true
 ---
 **Project Start Date:** November 4th, 2021 | **Project Finish Date:** November 7th, 2021
 

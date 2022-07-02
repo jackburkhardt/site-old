@@ -3,7 +3,7 @@ title: "Spigot Plugins"
 date: 2021-04-15
 description: "A collection of various Spigot plugins I've made."
 tags: [projects, minecraft, plugin, spigot, bukkit, paper]
-draft: false
+draft: true
 ---
 Below is a collection of random miscellaneous Spigot plugins I've made over time, with links to their repositories. I don't guarantee updates or support for any of these and I have not tested them on versions of Minecraft other than those listed. I know for a fact that most  of the 1.8 plugins will break if you try to load them on 1.13+.
 

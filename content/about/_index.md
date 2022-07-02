@@ -9,8 +9,7 @@ My interests lie generally in interactive entertainment, sociology, and human-co
 
 I'm involved in a few different things at Northwestern:
 
-- Production assistant for [Dillo Day](https://dilloday.org/), the largest student-run music festival in the United States
-- Electronics subteam member for [Northwestern Formula Racing](https://northwesternformularacing.com/), a team that builds and races Formula-style cars
+- Producer for [Dillo Day](https://dilloday.org/), the largest student-run music festival in the United States
 - Education team member for [RAISO](https://raiso.org/), an organization that promotes ethical and responsible AI usage
 - Technology Chair for [Shepard Residential College](https://shepardrc.com/), one of Northwestern's ten residential colleges
 - I also serve on a student advisory board to Northwestern's computer science department

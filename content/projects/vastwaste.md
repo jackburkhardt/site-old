@@ -1,7 +1,7 @@
 ---
 title: "VastWaste & Mind The Debris"
 date: 2021-08-21
-description: "A VR based art installation created as a research project with the goal of showcasing the effects of space and marine debris."
+description: "A VR based art installation showcasing the effects of space and marine debris."
 tags: [projects, unity, csharp, vr, featured]
 draft: false
 ---
@@ -14,6 +14,13 @@ draft: false
 The principal difference between these pieces is that *Mind the Debris* uses a HTC Vive with attached EEG sensors. The sensor data gets sent over to Unity and impacts parts of the installation, including music and collisions. The *VastWaste* version uses other sources of data to handle debris timing and frequency, such as ocean currents and Twitter data.
 
 Details, pictures, and more information about this piece can be found on Ozge Samanci's website (hyperlinked above). I will not do a full writeup here like I usually do for my projects since she has already covered most of the information I would usually include!
+
+## Exhibitions
+
+VastWaste has been featured at several international media arts festivals, including but not limited to:
+
+2022	27th International Symposium of Electronic Art, Barcelona, ES
+2022	SIGGRAPH Art Gallery, Vancouver, BC
 
 ## Additional information & resources
 
