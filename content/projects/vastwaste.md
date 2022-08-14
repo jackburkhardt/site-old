@@ -20,10 +20,10 @@ Details, pictures, and more information about this piece can be found on Ozge Sa
 
 VastWaste has been featured at several international media arts festivals, including but not limited to:
 
-6/13/2022   [27th International Symposium of Electronic Art](https://isea2022.isea-international.org/event/citm-upc-vastwaste/), Barcelona, ES
+6/13/2022   [27th International Symposium of Electronic Art](https://isea2022.isea-international.org/event/citm-upc-vastwaste/), Barcelona, ES  
 8/11/2022	[SIGGRAPH Art Gallery, Vancouver](https://s2022.siggraph.org/presentation/?id=artg_158&sess=sess227), Canada, BC
 
 ## Press coverage & publications
 
-6/14/2022   [Terrassa Digital](https://terrassadigital.cat/veure-la-deixalla-espacial-de-forma-immersiva-des-del-citm/)
+6/14/2022   [Terrassa Digital](https://terrassadigital.cat/veure-la-deixalla-espacial-de-forma-immersiva-des-del-citm/)  
 6/25/2022   [Association for Computing Machinery](https://dl.acm.org/doi/10.1145/3532837.3534952)
