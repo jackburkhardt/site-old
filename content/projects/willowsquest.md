@@ -5,9 +5,6 @@ description: "A cat's adventure to find their little gelatin friend."
 tags: [projects, unity, csharp, game design, rpg]
 draft: false
 ---
-**Project Start Date:** January 6th, 2022
-**Role(s):** Writer, Designer, Programmer
-
 ![demo1](/resources/willowsquest/demo-1.png)
 
 *Willow's Quest* is a game I made with [Kevin Mendoza Tudares](https://mendozatudares.github.io/) and [Beck Mallwitz](https://imallwitz.github.io/artportfolio/) for Northwestern's CS 377 Game Development Studio course. Kevin did a ton of work on the combat system and UI, Beck did a lot of art and sound design, and I did most of the writing and gameplay programming.

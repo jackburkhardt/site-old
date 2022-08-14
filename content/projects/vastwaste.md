@@ -5,7 +5,6 @@ description: "A VR based art installation showcasing the effects of space and ma
 tags: [projects, unity, csharp, vr, featured]
 draft: false
 ---
-**Project Start Date:** June 2021 | **Project Finish Date:** June 2022
 
 ![VWposter](/resources/vastwaste/posterVW.jpg)
 

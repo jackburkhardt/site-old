@@ -5,7 +5,6 @@ description: "A version of the Hypixel server's popular Bedwars gamemode, recrea
 tags: [projects, wedbars, bedwars, spigot, plugin, bed wars, minecraft, featured]
 draft: false
 ---
-**Project Start Date:** March 2021 | **Project Finish Date:** Ongoing (paused)
 
 **Update:** I am currently working on a port for this plugin to the 1.13+ Spigot API. While this post is about 80% done, it is not yet suitable for production use. As always, you can view more info an submit issues on [GitHub](https://github.com/dilanx/WedBars/tree/1.13+).
 

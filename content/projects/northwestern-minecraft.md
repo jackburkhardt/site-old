@@ -5,7 +5,6 @@ description: "A long-standing Minecraft survival server made for the Northwester
 tags: [projects, minecraft, server, northwestern, featured]
 draft: false
 ---
-**Project Start Date:** Early 2020 | **Project Finish Date:** Ongoing
 
 I designed, developed, and hosted several iterations of a Minecraft server for the Northwestern community, open to all students of all skill levels. This server was created shortly after our class received admission to Northwestern, which happened to coincide with the start of the COVID-19 pandemic and early quarantine orders. It gave members of our class the opportunity to meet and engage with one another despite only being able to communicate virtually. Since then, this server has had 3 major iterations (plus a brief [Pixelmon](https://pixelmonmod.com/) spinoff), with a forth on the way as of November 2021. Each iteration has coincided with a summer or winter break, and starting with the 2nd and 3rd map incoming members of the class of 2025 also joined us.
 

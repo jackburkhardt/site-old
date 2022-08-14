@@ -5,8 +5,6 @@ description: "An incomplete mod that attempts to recreate cut content from Fallo
 tags: [projects, fallout, fallout 2, modding, bis mapper, featured]
 draft: false
 ---
-**Project Start Date:** July 2020 | **Project Finish Date:** September 2020
-
 
 ![ingame1](/resources/abbey/ingame1.png)
  
