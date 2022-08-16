@@ -3,24 +3,33 @@ title: about me
 type: home
 ---
 
-Hello, I'm Jack Burkhardt. I am an undergraduate student studying Computer Science and Sociology at Northwestern University. On this site you'll find my blog where I ramble incoherently about many things, a list of projects I've worked on, and other info about me. My resume is also available if that's what you're looking for.
+Hello! I am a third-year computer science student at Northwestern. I am the Lead Programmer for KeyWave, bringing the work of other team members to life in code. I am also a Software Engineer for Overture Games, where I help make instrument practice fun for music students.
 
-My interests lie generally in interactive entertainment, sociology, and human-computer interaction. I enjoy studying the philosophical and real world implications of a maturing internet and designing story-based games that fully utilize the power of games as an art form. I am also getting more into human-computer interaction methods such as virtual and mixed reality.
+I am passionate about using the power of computers to make fun, immersive, and thoughtful experiences. I have worked on several game projects, from small class projects like Willow’s Quest and Roadkill to full fledged games such as Intervallic and KeyWave. I also worked on the virtual reality art installation VastWaste, which has recently been featured at prestigious exhibitions including SIGGRAPH2022 and ISEA2022.
 
-I'm involved in a few different things at Northwestern:
+At Northwestern I am a producer for the Dillo Day music festival and am an undergrad teaching assistant for various computer science courses. When not working on tech, I enjoy reading and writing, exploring forest preserves, and playing with my dog Sam.
 
-- Producer for [Dillo Day](https://dilloday.org/), the largest student-run music festival in the United States
-- Education team member for [RAISO](https://raiso.org/), an organization that promotes ethical and responsible AI usage
-- Technology Chair for [Shepard Residential College](https://shepardrc.com/), one of Northwestern's ten residential colleges
-- I also serve on a student advisory board to Northwestern's computer science department
+You can reach me at ([hello **at** jackburkhardt **dot** com](mailto:hello@jackburkhardt.com)). I have a boundless appetite for knowledge and would love to talk.
 
-Previously I worked with the now-defunct [Chicode](https://chicode.org/), an organization promoting CS education in Chicago Public Schools, and founded the annual [Jones Jam](https://jonesjam.org/) 12 hour game jam. I also support [CodeDay Chicago](https://event.codeday.org/chicago) game jams and hackathons as a student mentor. On the side, I provide freelance web & gameserver hosting and development.
+## PGP
 
-You can reach me at ([mail **at** jackburkhardt **dot** com](mailto:mail@jackburkhardt.com)). I have a boundless appetite for knowledge and would love to talk.
+I am able to send and receive PGP encrypted messages through the email above. Here is my public key for verification:
 
-## Quick links
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: OpenPGP.js v4.10.10
+Comment: https://openpgpjs.org
 
-- github: https://github.com/jackburkhardt
-- hosting dashboard: https://cp.twelvepointfive.us
-- build server: http://builds.jackburkhardt.com
-- itch.io page: https://jackburkhardt.itch.io/
+xjMEYgK/wxYJKwYBBAHaRw8BAQdAn3O7kQzrvkz99FO1HNr6GSfrQNLRayZY
+LR01YahLYjHNL21haWxAamFja2J1cmtoYXJkdC5jb20gPG1haWxAamFja2J1
+cmtoYXJkdC5jb20+wo8EEBYKACAFAmICv8MGCwkHCAMCBBUICgIEFgIBAAIZ
+AQIbAwIeAQAhCRDUr1Wa4YeawxYhBNDcN0kvOLwLOXyiFtSvVZrhh5rD7QQB
+AN3qr+vekArAaJvvZpOcoMKqiJlAPNnD0dWwetEQ30F6AQCL6Wn5CDWWI/xm
+/wHGozDqyTr8HlfBzFV24xCU3mNqB844BGICv8MSCisGAQQBl1UBBQEBB0Ap
+W6YqsfZN6x5SJ6qxMVCAc7we5VuqXRPkomxdjlPUNwMBCAfCeAQYFggACQUC
+YgK/wwIbDAAhCRDUr1Wa4YeawxYhBNDcN0kvOLwLOXyiFtSvVZrhh5rD0QkA
+/AzVryWHC6KkguHcXokbd+wyyzwvIpW7qn5mBwaziw30AP9dr485AaNU7mpS
+bS9vlBQCCuhm4gE4lNQgdT4FAIt9DQ==
+=mBZ+
+-----END PGP PUBLIC KEY BLOCK-----
+```
