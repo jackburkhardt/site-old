@@ -6,7 +6,7 @@ tags: [projects, wedbars, bedwars, spigot, plugin, bed wars, minecraft, featured
 draft: false
 ---
 
-**Update:** I am currently working on a port for this plugin to the 1.13+ Spigot API. While this post is about 80% done, it is not yet suitable for production use. As always, you can view more info an submit issues on [GitHub](https://github.com/dilanx/WedBars/tree/1.13+).
+**Update:** I am currently working on a port for this plugin to the 1.13+ Spigot API. While this port is about 80% done, it is not yet suitable for production use. As always, you can view more info and submit issues on [GitHub](https://github.com/dilanx/WedBars/tree/1.13+).
 
 WedBars is a version of the the hugely popular Minecraft minigame mode *BedWars*, which itself is a derivative of other games such as *EggWars* and *CakeWars*. This plugin was conceived by myself and Dilan partially as a "what-if" joke and partially as a Java project for me but quickly turned into a full-fledged server plugin that has become a nearly identical recreation of the Hypixel server's BedWars. It contains features such as an arena setup wizard, robust configuration options, and a MYSQL-enabled player stats system.
 
@@ -22,5 +22,5 @@ I mentioned before that many forms of this gamemode exist, and while that is tru
 
 Most Bedwars players and servers still operate on Minecraft version 1.8 from 2013 due to the different PvP mechanics. I view the PvP community's reluctance to move past 1.8 as quite a shame since there are so many fresh and innovative possibilities created by the new PvP system and new game features. So in addition to working on a version of this project for 1.8, I've been porting Wedbars to use the 1.13+ Spigot API (for support of Minecraft versions 1.13-1.17). This port is now almost complete, and once the fundamentals are working I can then turn towards implementing new features made possible by newer versions of the game. New 1.13+ features could include anything from new powerups and blocks to smaller changes like properly colored beds for each team.
 
-##s Downloads & Source
+## Downloads & Source
 You can find the source code on [GitHub](https://github.com/dilanx/WedBars) and download nightly builds from my [Jenkins build server](http://builds.jackburkhardt.com/).
