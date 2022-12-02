@@ -132,7 +132,7 @@ menu:
       weight: 40
     - identifier: resume
       name: resume
-      url: /resume/jack-burkhardt-resume-su22.pdf
+      url: /resume/jack-burkhardt-resume-fa22.pdf
       weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
