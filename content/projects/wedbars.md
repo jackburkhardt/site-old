@@ -1,7 +1,7 @@
 ---
 title: "WedBars"
 date: 2021-04-18
-description: "A version of the Hypixel server's popular Bedwars gamemode, recreated from scratch."
+summary: "A version of the Hypixel server's popular Bedwars gamemode, recreated from scratch."
 tags: [projects, wedbars, bedwars, spigot, plugin, bed wars, minecraft, featured]
 draft: false
 ---

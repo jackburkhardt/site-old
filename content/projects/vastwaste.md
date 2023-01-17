@@ -1,7 +1,7 @@
 ---
 title: "VastWaste & Mind The Debris"
 date: 2021-08-21
-description: "A VR based art installation showcasing the effects of space and marine debris."
+summary: "A VR based art installation showcasing the detrimental effects of space and marine debris. Featured at ISEA2022, SIGGRAPH, and Piksel Festival!"
 tags: [projects, unity, csharp, vr, featured]
 draft: false
 ---

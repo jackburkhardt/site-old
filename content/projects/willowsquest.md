@@ -1,7 +1,7 @@
 ---
 title: "Willow's Quest"
 date: 2022-03-01
-description: "A cat's adventure to find their little gelatin friend."
+summary: "A cat's adventure to find their little gelatin friend."
 tags: [projects, unity, csharp, game design, rpg]
 draft: false
 ---
