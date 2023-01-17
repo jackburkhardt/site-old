@@ -1,7 +1,7 @@
 ---
 title: "Intervallic"
 date: 2022-08-19
-description: "A game meant to make practicing music fun."
+description: "A game meant to make practicing music fun. Now available on Steam and itch!"
 tags: [projects, unity, csharp, game design, overture, featured]
 draft: false
 ---
@@ -22,7 +22,9 @@ Concept art courtesy of the wonderful and talented [Erin Park](https://www.erinp
 
 ## Release information
 
-Intervallic is scheduled to be released in late 2022 for PC, Mac, and iOS. To stay up-to-date on release info and follow our progress, please join our [Discord](https://discord.gg/8qn2m3uKan)!
+Check out our latest demo, available for free this February on [Steam](https://store.steampowered.com/app/2270460) and [itch](https://overturegames.itch.io/intervallic)!
+
+An early release version with more content is planned for later this year. In the meantime, feel free to join our [Discord](https://discord.gg/8qn2m3uKan) for updates!
 
 ## Media featuring Intervallic
 

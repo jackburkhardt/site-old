@@ -22,6 +22,7 @@ VastWaste has been featured at several international media arts festivals, inclu
 
 6/13/2022   [27th International Symposium of Electronic Art](https://isea2022.isea-international.org/event/citm-upc-vastwaste/), Barcelona, ES  
 8/11/2022	[SIGGRAPH Art Gallery, Vancouver](https://s2022.siggraph.org/presentation/?id=artg_158&sess=sess227), Canada, BC
+10/17/2022  [20th Piksel Festival for Electronic Art](https://22.piksel.no/), Bergen, NO
 
 ## Press coverage & publications
 
