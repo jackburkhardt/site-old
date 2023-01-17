@@ -1,7 +1,7 @@
 ---
 title: "Intervallic"
 date: 2022-08-19
-description: "A game meant to make practicing music fun. Now available on Steam and itch!"
+summary: "A game meant to make practicing music fun. Now available on Steam and itch!"
 tags: [projects, unity, csharp, game design, overture, featured]
 draft: false
 ---
