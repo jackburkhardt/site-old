@@ -20,11 +20,11 @@ Details, pictures, and more information about this piece can be found on Ozge Sa
 
 VastWaste has been featured at several international media arts festivals, including but not limited to:
 
-06/13/2022   [27th International Symposium of Electronic Art](https://isea2022.isea-international.org/event/citm-upc-vastwaste/), Barcelona, ES  \\
-08/11/2022 	 [SIGGRAPH Art Gallery, Vancouver](https://s2022.siggraph.org/presentation/?id=artg_158&sess=sess227), Canada, BC\\
-10/17/2022   [20th Piksel Festival for Electronic Art](https://22.piksel.no/), Bergen, NO\\
-07/05/2023   [FILE Festival 2023](https://file.org.br/), São Paulo, BR\\
-09/19/2023   [NOVA @ Museum of Tomorrow](https://museudoamanha.org.br/en), Rio de Janeiro, BR\\
+06/13/2022   [27th International Symposium of Electronic Art](https://isea2022.isea-international.org/event/citm-upc-vastwaste/), Barcelona, ES   \\
+08/11/2022 	 [SIGGRAPH Art Gallery, Vancouver](https://s2022.siggraph.org/presentation/?id=artg_158&sess=sess227), Canada, BC \\
+10/17/2022   [20th Piksel Festival for Electronic Art](https://22.piksel.no/), Bergen, NO \\
+07/05/2023   [FILE Festival 2023](https://file.org.br/), São Paulo, BR \\
+09/19/2023   [NOVA @ Museum of Tomorrow](https://museudoamanha.org.br/en), Rio de Janeiro, BR \\
 
 
 ## Press coverage & publications
