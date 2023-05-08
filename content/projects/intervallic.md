@@ -28,4 +28,6 @@ An early release version with more content is planned for later this year. In th
 
 ## Media featuring Intervallic
 
-8/15/2022   [The Garage](https://thegarage.northwestern.edu/news/overture-games-team-spotlight/)
+08/15/2022   [Overture Games Team Spotlight](https://thegarage.northwestern.edu/news/overture-games-team-spotlight/) \\
+11/21/2022   [Glimpse under the hood: The Garage’s undergraduate projects](https://dailynorthwestern.com/2022/11/21/photo/captured-glimpse-under-the-hood-the-garages-undergraduate-projects)\\
+05/05/2023   [The Next Generation of Game Developers: Talking with Overture Games About Inspiration and Innovation](https://www.sceneandheardnu.com/content/2023/5/5/the-next-generation-of-game-developers-talking-with-overture-games-about-inspiration-and-innovation)
